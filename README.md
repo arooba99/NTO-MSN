@@ -1,14 +1,11 @@
-# NTO-namd
 # Ni₃TeO₆/MoSi₂N₄ Heterostructure for Photocatalytic Water Splitting
 
 This repository contains data, structures, scripts, and supporting calculations for "Ultrafast Charge Transfer and Delayed Recombination in type-II 
 Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 
----
-
 ## Repository Structure
 
-### 1. `01_Structure/`
+### 1. `Structure/`
 - POSCAR/CIF files for:
   - Ni₃TeO₆ (NTO)
   - MoSi₂N₄ (MSN)
@@ -16,7 +13,7 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 
 ---
 
-### 2. `02_Stability/`
+### 2. `Stability/`
 - **Dynamic Stability:**
   - Phonon dispersion plots (PHONOPY)
 - **Mechanical Stability:**
@@ -26,15 +23,15 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 
 ---
 
-### 3. `03_Electronic_Properties/`
+### 3. `Electronic_Properties/`
 - Band structures and DOS plots (GGA+U and HSE)
 - Band alignment diagrams and scripts
 - Work function and electric field calculations
-- Charge density difference plots
+- Charge density difference (CDD) plot
 
 ---
 
-### 4. `04_NAMD/`
+### 4. `NAMD/`
 - Scripts and selected outputs for:
   - Time-dependent Kohn-Sham energies
   - Electron and hole populations
@@ -43,13 +40,13 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 
 ---
 
-### 5. `05_Gibbs_HER/`
+### 5. `Gibbs_HER/`
 - POSCARs and CONTCARs for pristine and defect systems
 - Input files and metadata used for Gibbs free energy and HER calculations
 
 ---
 
-### 6. `06_STH_Efficiency/`
+### 6. `STH_Efficiency/`
 - Script and sample output for solar-to-hydrogen (STH) efficiency estimation
 
 ---
