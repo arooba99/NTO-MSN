@@ -17,7 +17,7 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 - **Dynamic Stability:**
   - Phonon dispersion plots (PHONOPY)
 - **Mechanical Stability:**
-  - Elastic constants and stress-strain data
+  - Stiffness tensor (in N/m)
 - **Thermodynamic Stability:**
   - AIMD input/output files and representative trajectory
 
@@ -25,8 +25,8 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 
 ### 3. `Electronic_Properties/`
 - Band structures and DOS plots (GGA+U and HSE)
-- Band alignment diagrams and scripts
-- Work function and electric field calculations
+- Scripts for band alignment and electric field calculation
+- Work function
 - Charge density difference (CDD) plot
 
 ---
@@ -34,20 +34,18 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 ### 4. `NAMD/`
 - Scripts and selected outputs for:
   - Time-dependent Kohn-Sham energies
-  - Electron and hole populations
-  - Recombination time and localization
-- **Note:** Full spectral density data and all NACs available upon request due to file size.
+  - Carrier populations
+  - Carrier Localization
 
 ---
 
 ### 5. `Gibbs_HER/`
-- POSCARs and CONTCARs for pristine and defect systems
-- Input files and metadata used for Gibbs free energy and HER calculations
+- POSCARs and CONTCARs for pristine and defect systems for Gibbs free energy calculations for HER
 
 ---
 
 ### 6. `STH_Efficiency/`
-- Script and sample output for solar-to-hydrogen (STH) efficiency estimation
+- Script for solar-to-hydrogen (STH) efficiency estimation
 
 ---
 
