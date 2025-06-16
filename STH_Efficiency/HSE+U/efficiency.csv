@@ -1,0 +1,13 @@
+Description,Parameter,Value
+HER overpotential,xA(H2),0.26 V
+OER overpotential,xB(O2),0.73 V
+Minimum photon energy for water splitting,Critical Energy (E),2.22 eV
+Absorbed photon flux integral,n_abs Numerator,1.7127e+21
+Total photon flux integral,n_abs Denominator,6.2444e+21
+Light absorption efficiency,n_abs,27.43%
+Usable carrier flux integral,n_cu Numerator,7.8619e+20
+Absorbed photon flux integral,n_cu Denominator,1.7127e+21
+Carrier utilization efficiency,n_cu,45.90%
+Polarization correction term,phi_term,5.4331e+17
+Solar-to-Hydrogen efficiency,n_STH,12.59%
+Corrected STH efficiency,n'_STH,12.59%
