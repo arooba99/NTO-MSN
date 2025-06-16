@@ -1,0 +1,4744 @@
+ #../../run//0001/WAVECAR
+ #../../run//0002/WAVECAR
+ #../../run//0003/WAVECAR
+ #../../run//0004/WAVECAR
+ #../../run//0005/WAVECAR
+ #../../run//0006/WAVECAR
+ #../../run//0007/WAVECAR
+ #../../run//0008/WAVECAR
+ #../../run//0009/WAVECAR
+ #../../run//0010/WAVECAR
+ #../../run//0011/WAVECAR
+ #../../run//0012/WAVECAR
+ #../../run//0013/WAVECAR
+ #../../run//0014/WAVECAR
+ #../../run//0015/WAVECAR
+ #../../run//0016/WAVECAR
+ #../../run//0017/WAVECAR
+ #../../run//0018/WAVECAR
+ #../../run//0019/WAVECAR
+ #../../run//0020/WAVECAR
+ #../../run//0021/WAVECAR
+ #../../run//0022/WAVECAR
+ #../../run//0023/WAVECAR
+ #../../run//0024/WAVECAR
+ #../../run//0025/WAVECAR
+ #../../run//0026/WAVECAR
+ #../../run//0027/WAVECAR
+ #../../run//0028/WAVECAR
+ #../../run//0029/WAVECAR
+ #../../run//0030/WAVECAR
+ #../../run//0031/WAVECAR
+ #../../run//0032/WAVECAR
+ #../../run//0033/WAVECAR
+ #../../run//0034/WAVECAR
+ #../../run//0035/WAVECAR
+ #../../run//0036/WAVECAR
+ #../../run//0037/WAVECAR
+ #../../run//0038/WAVECAR
+ #../../run//0039/WAVECAR
+ #../../run//0040/WAVECAR
+ #../../run//0041/WAVECAR
+ #../../run//0042/WAVECAR
+ #../../run//0043/WAVECAR
+ #../../run//0044/WAVECAR
+ #../../run//0045/WAVECAR
+ #../../run//0046/WAVECAR
+ #../../run//0047/WAVECAR
+ #../../run//0048/WAVECAR
+ #../../run//0049/WAVECAR
+ #../../run//0050/WAVECAR
+ #../../run//0051/WAVECAR
+ #../../run//0052/WAVECAR
+ #../../run//0053/WAVECAR
+ #../../run//0054/WAVECAR
+ #../../run//0055/WAVECAR
+ #../../run//0056/WAVECAR
+ #../../run//0057/WAVECAR
+ #../../run//0058/WAVECAR
+ #../../run//0059/WAVECAR
+ #../../run//0060/WAVECAR
+ #../../run//0061/WAVECAR
+ #../../run//0062/WAVECAR
+ #../../run//0063/WAVECAR
+ #../../run//0064/WAVECAR
+ #../../run//0065/WAVECAR
+ #../../run//0066/WAVECAR
+ #../../run//0067/WAVECAR
+ #../../run//0068/WAVECAR
+ #../../run//0069/WAVECAR
+ #../../run//0070/WAVECAR
+ #../../run//0071/WAVECAR
+ #../../run//0072/WAVECAR
+ #../../run//0073/WAVECAR
+ #../../run//0074/WAVECAR
+ #../../run//0075/WAVECAR
+ #../../run//0076/WAVECAR
+ #../../run//0077/WAVECAR
+ #../../run//0078/WAVECAR
+ #../../run//0079/WAVECAR
+ #../../run//0080/WAVECAR
+ #../../run//0081/WAVECAR
+ #../../run//0082/WAVECAR
+ #../../run//0083/WAVECAR
+ #../../run//0084/WAVECAR
+ #../../run//0085/WAVECAR
+ #../../run//0086/WAVECAR
+ #../../run//0087/WAVECAR
+ #../../run//0088/WAVECAR
+ #../../run//0089/WAVECAR
+ #../../run//0090/WAVECAR
+ #../../run//0091/WAVECAR
+ #../../run//0092/WAVECAR
+ #../../run//0093/WAVECAR
+ #../../run//0094/WAVECAR
+ #../../run//0095/WAVECAR
+ #../../run//0096/WAVECAR
+ #../../run//0097/WAVECAR
+ #../../run//0098/WAVECAR
+ #../../run//0099/WAVECAR
+ #../../run//0100/WAVECAR
+ #../../run//0101/WAVECAR
+ #../../run//0102/WAVECAR
+ #../../run//0103/WAVECAR
+ #../../run//0104/WAVECAR
+ #../../run//0105/WAVECAR
+ #../../run//0106/WAVECAR
+ #../../run//0107/WAVECAR
+ #../../run//0108/WAVECAR
+ #../../run//0109/WAVECAR
+ #../../run//0110/WAVECAR
+ #../../run//0111/WAVECAR
+ #../../run//0112/WAVECAR
+ #../../run//0113/WAVECAR
+ #../../run//0114/WAVECAR
+ #../../run//0115/WAVECAR
+ #../../run//0116/WAVECAR
+ #../../run//0117/WAVECAR
+ #../../run//0118/WAVECAR
+ #../../run//0119/WAVECAR
+ #../../run//0120/WAVECAR
+ #../../run//0121/WAVECAR
+ #../../run//0122/WAVECAR
+ #../../run//0123/WAVECAR
+ #../../run//0124/WAVECAR
+ #../../run//0125/WAVECAR
+ #../../run//0126/WAVECAR
+ #../../run//0127/WAVECAR
+ #../../run//0128/WAVECAR
+ #../../run//0129/WAVECAR
+ #../../run//0130/WAVECAR
+ #../../run//0131/WAVECAR
+ #../../run//0132/WAVECAR
+ #../../run//0133/WAVECAR
+ #../../run//0134/WAVECAR
+ #../../run//0135/WAVECAR
+ #../../run//0136/WAVECAR
+ #../../run//0137/WAVECAR
+ #../../run//0138/WAVECAR
+ #../../run//0139/WAVECAR
+ #../../run//0140/WAVECAR
+ #../../run//0141/WAVECAR
+ #../../run//0142/WAVECAR
+ #../../run//0143/WAVECAR
+ #../../run//0144/WAVECAR
+ #../../run//0145/WAVECAR
+ #../../run//0146/WAVECAR
+ #../../run//0147/WAVECAR
+ #../../run//0148/WAVECAR
+ #../../run//0149/WAVECAR
+ #../../run//0150/WAVECAR
+ #../../run//0151/WAVECAR
+ #../../run//0152/WAVECAR
+ #../../run//0153/WAVECAR
+ #../../run//0154/WAVECAR
+ #../../run//0155/WAVECAR
+ #../../run//0156/WAVECAR
+ #../../run//0157/WAVECAR
+ #../../run//0158/WAVECAR
+ #../../run//0159/WAVECAR
+ #../../run//0160/WAVECAR
+ #../../run//0161/WAVECAR
+ #../../run//0162/WAVECAR
+ #../../run//0163/WAVECAR
+ #../../run//0164/WAVECAR
+ #../../run//0165/WAVECAR
+ #../../run//0166/WAVECAR
+ #../../run//0167/WAVECAR
+ #../../run//0168/WAVECAR
+ #../../run//0169/WAVECAR
+ #../../run//0170/WAVECAR
+ #../../run//0171/WAVECAR
+ #../../run//0172/WAVECAR
+ #../../run//0173/WAVECAR
+ #../../run//0174/WAVECAR
+ #../../run//0175/WAVECAR
+ #../../run//0176/WAVECAR
+ #../../run//0177/WAVECAR
+ #../../run//0178/WAVECAR
+ #../../run//0179/WAVECAR
+ #../../run//0180/WAVECAR
+ #../../run//0181/WAVECAR
+ #../../run//0182/WAVECAR
+ #../../run//0183/WAVECAR
+ #../../run//0184/WAVECAR
+ #../../run//0185/WAVECAR
+ #../../run//0186/WAVECAR
+ #../../run//0187/WAVECAR
+ #../../run//0188/WAVECAR
+ #../../run//0189/WAVECAR
+ #../../run//0190/WAVECAR
+ #../../run//0191/WAVECAR
+ #../../run//0192/WAVECAR
+ #../../run//0193/WAVECAR
+ #../../run//0194/WAVECAR
+ #../../run//0195/WAVECAR
+ #../../run//0196/WAVECAR
+ #../../run//0197/WAVECAR
+ #../../run//0198/WAVECAR
+ #../../run//0199/WAVECAR
+ #../../run//0200/WAVECAR
+ #../../run//0201/WAVECAR
+ #../../run//0202/WAVECAR
+ #../../run//0203/WAVECAR
+ #../../run//0204/WAVECAR
+ #../../run//0205/WAVECAR
+ #../../run//0206/WAVECAR
+ #../../run//0207/WAVECAR
+ #../../run//0208/WAVECAR
+ #../../run//0209/WAVECAR
+ #../../run//0210/WAVECAR
+ #../../run//0211/WAVECAR
+ #../../run//0212/WAVECAR
+ #../../run//0213/WAVECAR
+ #../../run//0214/WAVECAR
+ #../../run//0215/WAVECAR
+ #../../run//0216/WAVECAR
+ #../../run//0217/WAVECAR
+ #../../run//0218/WAVECAR
+ #../../run//0219/WAVECAR
+ #../../run//0220/WAVECAR
+ #../../run//0221/WAVECAR
+ #../../run//0222/WAVECAR
+ #../../run//0223/WAVECAR
+ #../../run//0224/WAVECAR
+ #../../run//0225/WAVECAR
+ #../../run//0226/WAVECAR
+ #../../run//0227/WAVECAR
+ #../../run//0228/WAVECAR
+ #../../run//0229/WAVECAR
+ #../../run//0230/WAVECAR
+ #../../run//0231/WAVECAR
+ #../../run//0232/WAVECAR
+ #../../run//0233/WAVECAR
+ #../../run//0234/WAVECAR
+ #../../run//0235/WAVECAR
+ #../../run//0236/WAVECAR
+ #../../run//0237/WAVECAR
+ #../../run//0238/WAVECAR
+ #../../run//0239/WAVECAR
+ #../../run//0240/WAVECAR
+ #../../run//0241/WAVECAR
+ #../../run//0242/WAVECAR
+ #../../run//0243/WAVECAR
+ #../../run//0244/WAVECAR
+ #../../run//0245/WAVECAR
+ #../../run//0246/WAVECAR
+ #../../run//0247/WAVECAR
+ #../../run//0248/WAVECAR
+ #../../run//0249/WAVECAR
+ #../../run//0250/WAVECAR
+ #../../run//0251/WAVECAR
+ #../../run//0252/WAVECAR
+ #../../run//0253/WAVECAR
+ #../../run//0254/WAVECAR
+ #../../run//0255/WAVECAR
+ #../../run//0256/WAVECAR
+ #../../run//0257/WAVECAR
+ #../../run//0258/WAVECAR
+ #../../run//0259/WAVECAR
+ #../../run//0260/WAVECAR
+ #../../run//0261/WAVECAR
+ #../../run//0262/WAVECAR
+ #../../run//0263/WAVECAR
+ #../../run//0264/WAVECAR
+ #../../run//0265/WAVECAR
+ #../../run//0266/WAVECAR
+ #../../run//0267/WAVECAR
+ #../../run//0268/WAVECAR
+ #../../run//0269/WAVECAR
+ #../../run//0270/WAVECAR
+ #../../run//0271/WAVECAR
+ #../../run//0272/WAVECAR
+ #../../run//0273/WAVECAR
+ #../../run//0274/WAVECAR
+ #../../run//0275/WAVECAR
+ #../../run//0276/WAVECAR
+ #../../run//0277/WAVECAR
+ #../../run//0278/WAVECAR
+ #../../run//0279/WAVECAR
+ #../../run//0280/WAVECAR
+ #../../run//0281/WAVECAR
+ #../../run//0282/WAVECAR
+ #../../run//0283/WAVECAR
+ #../../run//0284/WAVECAR
+ #../../run//0285/WAVECAR
+ #../../run//0286/WAVECAR
+ #../../run//0287/WAVECAR
+ #../../run//0288/WAVECAR
+ #../../run//0289/WAVECAR
+ #../../run//0290/WAVECAR
+ #../../run//0291/WAVECAR
+ #../../run//0292/WAVECAR
+ #../../run//0293/WAVECAR
+ #../../run//0294/WAVECAR
+ #../../run//0295/WAVECAR
+ #../../run//0296/WAVECAR
+ #../../run//0297/WAVECAR
+ #../../run//0298/WAVECAR
+ #../../run//0299/WAVECAR
+ #../../run//0300/WAVECAR
+ #../../run//0301/WAVECAR
+ #../../run//0302/WAVECAR
+ #../../run//0303/WAVECAR
+ #../../run//0304/WAVECAR
+ #../../run//0305/WAVECAR
+ #../../run//0306/WAVECAR
+ #../../run//0307/WAVECAR
+ #../../run//0308/WAVECAR
+ #../../run//0309/WAVECAR
+ #../../run//0310/WAVECAR
+ #../../run//0311/WAVECAR
+ #../../run//0312/WAVECAR
+ #../../run//0313/WAVECAR
+ #../../run//0314/WAVECAR
+ #../../run//0315/WAVECAR
+ #../../run//0316/WAVECAR
+ #../../run//0317/WAVECAR
+ #../../run//0318/WAVECAR
+ #../../run//0319/WAVECAR
+ #../../run//0320/WAVECAR
+ #../../run//0321/WAVECAR
+ #../../run//0322/WAVECAR
+ #../../run//0323/WAVECAR
+ #../../run//0324/WAVECAR
+ #../../run//0325/WAVECAR
+ #../../run//0326/WAVECAR
+ #../../run//0327/WAVECAR
+ #../../run//0328/WAVECAR
+ #../../run//0329/WAVECAR
+ #../../run//0330/WAVECAR
+ #../../run//0331/WAVECAR
+ #../../run//0332/WAVECAR
+ #../../run//0333/WAVECAR
+ #../../run//0334/WAVECAR
+ #../../run//0335/WAVECAR
+ #../../run//0336/WAVECAR
+ #../../run//0337/WAVECAR
+ #../../run//0338/WAVECAR
+ #../../run//0339/WAVECAR
+ #../../run//0340/WAVECAR
+ #../../run//0341/WAVECAR
+ #../../run//0342/WAVECAR
+ #../../run//0343/WAVECAR
+ #../../run//0344/WAVECAR
+ #../../run//0345/WAVECAR
+ #../../run//0346/WAVECAR
+ #../../run//0347/WAVECAR
+ #../../run//0348/WAVECAR
+ #../../run//0349/WAVECAR
+ #../../run//0350/WAVECAR
+ #../../run//0351/WAVECAR
+ #../../run//0352/WAVECAR
+ #../../run//0353/WAVECAR
+ #../../run//0354/WAVECAR
+ #../../run//0355/WAVECAR
+ #../../run//0356/WAVECAR
+ #../../run//0357/WAVECAR
+ #../../run//0358/WAVECAR
+ #../../run//0359/WAVECAR
+ #../../run//0360/WAVECAR
+ #../../run//0361/WAVECAR
+ #../../run//0362/WAVECAR
+ #../../run//0363/WAVECAR
+ #../../run//0364/WAVECAR
+ #../../run//0365/WAVECAR
+ #../../run//0366/WAVECAR
+ #../../run//0367/WAVECAR
+ #../../run//0368/WAVECAR
+ #../../run//0369/WAVECAR
+ #../../run//0370/WAVECAR
+ #../../run//0371/WAVECAR
+ #../../run//0372/WAVECAR
+ #../../run//0373/WAVECAR
+ #../../run//0374/WAVECAR
+ #../../run//0375/WAVECAR
+ #../../run//0376/WAVECAR
+ #../../run//0377/WAVECAR
+ #../../run//0378/WAVECAR
+ #../../run//0379/WAVECAR
+ #../../run//0380/WAVECAR
+ #../../run//0381/WAVECAR
+ #../../run//0382/WAVECAR
+ #../../run//0383/WAVECAR
+ #../../run//0384/WAVECAR
+ #../../run//0385/WAVECAR
+ #../../run//0386/WAVECAR
+ #../../run//0387/WAVECAR
+ #../../run//0388/WAVECAR
+ #../../run//0389/WAVECAR
+ #../../run//0390/WAVECAR
+ #../../run//0391/WAVECAR
+ #../../run//0392/WAVECAR
+ #../../run//0393/WAVECAR
+ #../../run//0394/WAVECAR
+ #../../run//0395/WAVECAR
+ #../../run//0396/WAVECAR
+ #../../run//0397/WAVECAR
+ #../../run//0398/WAVECAR
+ #../../run//0399/WAVECAR
+ #../../run//0400/WAVECAR
+ #../../run//0401/WAVECAR
+ #../../run//0402/WAVECAR
+ #../../run//0403/WAVECAR
+ #../../run//0404/WAVECAR
+ #../../run//0405/WAVECAR
+ #../../run//0406/WAVECAR
+ #../../run//0407/WAVECAR
+ #../../run//0408/WAVECAR
+ #../../run//0409/WAVECAR
+ #../../run//0410/WAVECAR
+ #../../run//0411/WAVECAR
+ #../../run//0412/WAVECAR
+ #../../run//0413/WAVECAR
+ #../../run//0414/WAVECAR
+ #../../run//0415/WAVECAR
+ #../../run//0416/WAVECAR
+ #../../run//0417/WAVECAR
+ #../../run//0418/WAVECAR
+ #../../run//0419/WAVECAR
+ #../../run//0420/WAVECAR
+ #../../run//0421/WAVECAR
+ #../../run//0422/WAVECAR
+ #../../run//0423/WAVECAR
+ #../../run//0424/WAVECAR
+ #../../run//0425/WAVECAR
+ #../../run//0426/WAVECAR
+ #../../run//0427/WAVECAR
+ #../../run//0428/WAVECAR
+ #../../run//0429/WAVECAR
+ #../../run//0430/WAVECAR
+ #../../run//0431/WAVECAR
+ #../../run//0432/WAVECAR
+ #../../run//0433/WAVECAR
+ #../../run//0434/WAVECAR
+ #../../run//0435/WAVECAR
+ #../../run//0436/WAVECAR
+ #../../run//0437/WAVECAR
+ #../../run//0438/WAVECAR
+ #../../run//0439/WAVECAR
+ #../../run//0440/WAVECAR
+ #../../run//0441/WAVECAR
+ #../../run//0442/WAVECAR
+ #../../run//0443/WAVECAR
+ #../../run//0444/WAVECAR
+ #../../run//0445/WAVECAR
+ #../../run//0446/WAVECAR
+ #../../run//0447/WAVECAR
+ #../../run//0448/WAVECAR
+ #../../run//0449/WAVECAR
+ #../../run//0450/WAVECAR
+ #../../run//0451/WAVECAR
+ #../../run//0452/WAVECAR
+ #../../run//0453/WAVECAR
+ #../../run//0454/WAVECAR
+ #../../run//0455/WAVECAR
+ #../../run//0456/WAVECAR
+ #../../run//0457/WAVECAR
+ #../../run//0458/WAVECAR
+ #../../run//0459/WAVECAR
+ #../../run//0460/WAVECAR
+ #../../run//0461/WAVECAR
+ #../../run//0462/WAVECAR
+ #../../run//0463/WAVECAR
+ #../../run//0464/WAVECAR
+ #../../run//0465/WAVECAR
+ #../../run//0466/WAVECAR
+ #../../run//0467/WAVECAR
+ #../../run//0468/WAVECAR
+ #../../run//0469/WAVECAR
+ #../../run//0470/WAVECAR
+ #../../run//0471/WAVECAR
+ #../../run//0472/WAVECAR
+ #../../run//0473/WAVECAR
+ #../../run//0474/WAVECAR
+ #../../run//0475/WAVECAR
+ #../../run//0476/WAVECAR
+ #../../run//0477/WAVECAR
+ #../../run//0478/WAVECAR
+ #../../run//0479/WAVECAR
+ #../../run//0480/WAVECAR
+ #../../run//0481/WAVECAR
+ #../../run//0482/WAVECAR
+ #../../run//0483/WAVECAR
+ #../../run//0484/WAVECAR
+ #../../run//0485/WAVECAR
+ #../../run//0486/WAVECAR
+ #../../run//0487/WAVECAR
+ #../../run//0488/WAVECAR
+ #../../run//0489/WAVECAR
+ #../../run//0490/WAVECAR
+ #../../run//0491/WAVECAR
+ #../../run//0492/WAVECAR
+ #../../run//0493/WAVECAR
+ #../../run//0494/WAVECAR
+ #../../run//0495/WAVECAR
+ #../../run//0496/WAVECAR
+ #../../run//0497/WAVECAR
+ #../../run//0498/WAVECAR
+ #../../run//0499/WAVECAR
+ #../../run//0500/WAVECAR
+ #../../run//0501/WAVECAR
+ #../../run//0502/WAVECAR
+ #../../run//0503/WAVECAR
+ #../../run//0504/WAVECAR
+ #../../run//0505/WAVECAR
+ #../../run//0506/WAVECAR
+ #../../run//0507/WAVECAR
+ #../../run//0508/WAVECAR
+ #../../run//0509/WAVECAR
+ #../../run//0510/WAVECAR
+ #../../run//0511/WAVECAR
+ #../../run//0512/WAVECAR
+ #../../run//0513/WAVECAR
+ #../../run//0514/WAVECAR
+ #../../run//0515/WAVECAR
+ #../../run//0516/WAVECAR
+ #../../run//0517/WAVECAR
+ #../../run//0518/WAVECAR
+ #../../run//0519/WAVECAR
+ #../../run//0520/WAVECAR
+ #../../run//0521/WAVECAR
+ #../../run//0522/WAVECAR
+ #../../run//0523/WAVECAR
+ #../../run//0524/WAVECAR
+ #../../run//0525/WAVECAR
+ #../../run//0526/WAVECAR
+ #../../run//0527/WAVECAR
+ #../../run//0528/WAVECAR
+ #../../run//0529/WAVECAR
+ #../../run//0530/WAVECAR
+ #../../run//0531/WAVECAR
+ #../../run//0532/WAVECAR
+ #../../run//0533/WAVECAR
+ #../../run//0534/WAVECAR
+ #../../run//0535/WAVECAR
+ #../../run//0536/WAVECAR
+ #../../run//0537/WAVECAR
+ #../../run//0538/WAVECAR
+ #../../run//0539/WAVECAR
+ #../../run//0540/WAVECAR
+ #../../run//0541/WAVECAR
+ #../../run//0542/WAVECAR
+ #../../run//0543/WAVECAR
+ #../../run//0544/WAVECAR
+ #../../run//0545/WAVECAR
+ #../../run//0546/WAVECAR
+ #../../run//0547/WAVECAR
+ #../../run//0548/WAVECAR
+ #../../run//0549/WAVECAR
+ #../../run//0550/WAVECAR
+ #../../run//0551/WAVECAR
+ #../../run//0552/WAVECAR
+ #../../run//0553/WAVECAR
+ #../../run//0554/WAVECAR
+ #../../run//0555/WAVECAR
+ #../../run//0556/WAVECAR
+ #../../run//0557/WAVECAR
+ #../../run//0558/WAVECAR
+ #../../run//0559/WAVECAR
+ #../../run//0560/WAVECAR
+ #../../run//0561/WAVECAR
+ #../../run//0562/WAVECAR
+ #../../run//0563/WAVECAR
+ #../../run//0564/WAVECAR
+ #../../run//0565/WAVECAR
+ #../../run//0566/WAVECAR
+ #../../run//0567/WAVECAR
+ #../../run//0568/WAVECAR
+ #../../run//0569/WAVECAR
+ #../../run//0570/WAVECAR
+ #../../run//0571/WAVECAR
+ #../../run//0572/WAVECAR
+ #../../run//0573/WAVECAR
+ #../../run//0574/WAVECAR
+ #../../run//0575/WAVECAR
+ #../../run//0576/WAVECAR
+ #../../run//0577/WAVECAR
+ #../../run//0578/WAVECAR
+ #../../run//0579/WAVECAR
+ #../../run//0580/WAVECAR
+ #../../run//0581/WAVECAR
+ #../../run//0582/WAVECAR
+ #../../run//0583/WAVECAR
+ #../../run//0584/WAVECAR
+ #../../run//0585/WAVECAR
+ #../../run//0586/WAVECAR
+ #../../run//0587/WAVECAR
+ #../../run//0588/WAVECAR
+ #../../run//0589/WAVECAR
+ #../../run//0590/WAVECAR
+ #../../run//0591/WAVECAR
+ #../../run//0592/WAVECAR
+ #../../run//0593/WAVECAR
+ #../../run//0594/WAVECAR
+ #../../run//0595/WAVECAR
+ #../../run//0596/WAVECAR
+ #../../run//0597/WAVECAR
+ #../../run//0598/WAVECAR
+ #../../run//0599/WAVECAR
+ #../../run//0600/WAVECAR
+ #../../run//0601/WAVECAR
+ #../../run//0602/WAVECAR
+ #../../run//0603/WAVECAR
+ #../../run//0604/WAVECAR
+ #../../run//0605/WAVECAR
+ #../../run//0606/WAVECAR
+ #../../run//0607/WAVECAR
+ #../../run//0608/WAVECAR
+ #../../run//0609/WAVECAR
+ #../../run//0610/WAVECAR
+ #../../run//0611/WAVECAR
+ #../../run//0612/WAVECAR
+ #../../run//0613/WAVECAR
+ #../../run//0614/WAVECAR
+ #../../run//0615/WAVECAR
+ #../../run//0616/WAVECAR
+ #../../run//0617/WAVECAR
+ #../../run//0618/WAVECAR
+ #../../run//0619/WAVECAR
+ #../../run//0620/WAVECAR
+ #../../run//0621/WAVECAR
+ #../../run//0622/WAVECAR
+ #../../run//0623/WAVECAR
+ #../../run//0624/WAVECAR
+ #../../run//0625/WAVECAR
+ #../../run//0626/WAVECAR
+ #../../run//0627/WAVECAR
+ #../../run//0628/WAVECAR
+ #../../run//0629/WAVECAR
+ #../../run//0630/WAVECAR
+ #../../run//0631/WAVECAR
+ #../../run//0632/WAVECAR
+ #../../run//0633/WAVECAR
+ #../../run//0634/WAVECAR
+ #../../run//0635/WAVECAR
+ #../../run//0636/WAVECAR
+ #../../run//0637/WAVECAR
+ #../../run//0638/WAVECAR
+ #../../run//0639/WAVECAR
+ #../../run//0640/WAVECAR
+ #../../run//0641/WAVECAR
+ #../../run//0642/WAVECAR
+ #../../run//0643/WAVECAR
+ #../../run//0644/WAVECAR
+ #../../run//0645/WAVECAR
+ #../../run//0646/WAVECAR
+ #../../run//0647/WAVECAR
+ #../../run//0648/WAVECAR
+ #../../run//0649/WAVECAR
+ #../../run//0650/WAVECAR
+ #../../run//0651/WAVECAR
+ #../../run//0652/WAVECAR
+ #../../run//0653/WAVECAR
+ #../../run//0654/WAVECAR
+ #../../run//0655/WAVECAR
+ #../../run//0656/WAVECAR
+ #../../run//0657/WAVECAR
+ #../../run//0658/WAVECAR
+ #../../run//0659/WAVECAR
+ #../../run//0660/WAVECAR
+ #../../run//0661/WAVECAR
+ #../../run//0662/WAVECAR
+ #../../run//0663/WAVECAR
+ #../../run//0664/WAVECAR
+ #../../run//0665/WAVECAR
+ #../../run//0666/WAVECAR
+ #../../run//0667/WAVECAR
+ #../../run//0668/WAVECAR
+ #../../run//0669/WAVECAR
+ #../../run//0670/WAVECAR
+ #../../run//0671/WAVECAR
+ #../../run//0672/WAVECAR
+ #../../run//0673/WAVECAR
+ #../../run//0674/WAVECAR
+ #../../run//0675/WAVECAR
+ #../../run//0676/WAVECAR
+ #../../run//0677/WAVECAR
+ #../../run//0678/WAVECAR
+ #../../run//0679/WAVECAR
+ #../../run//0680/WAVECAR
+ #../../run//0681/WAVECAR
+ #../../run//0682/WAVECAR
+ #../../run//0683/WAVECAR
+ #../../run//0684/WAVECAR
+ #../../run//0685/WAVECAR
+ #../../run//0686/WAVECAR
+ #../../run//0687/WAVECAR
+ #../../run//0688/WAVECAR
+ #../../run//0689/WAVECAR
+ #../../run//0690/WAVECAR
+ #../../run//0691/WAVECAR
+ #../../run//0692/WAVECAR
+ #../../run//0693/WAVECAR
+ #../../run//0694/WAVECAR
+ #../../run//0695/WAVECAR
+ #../../run//0696/WAVECAR
+ #../../run//0697/WAVECAR
+ #../../run//0698/WAVECAR
+ #../../run//0699/WAVECAR
+ #../../run//0700/WAVECAR
+ #../../run//0701/WAVECAR
+ #../../run//0702/WAVECAR
+ #../../run//0703/WAVECAR
+ #../../run//0704/WAVECAR
+ #../../run//0705/WAVECAR
+ #../../run//0706/WAVECAR
+ #../../run//0707/WAVECAR
+ #../../run//0708/WAVECAR
+ #../../run//0709/WAVECAR
+ #../../run//0710/WAVECAR
+ #../../run//0711/WAVECAR
+ #../../run//0712/WAVECAR
+ #../../run//0713/WAVECAR
+ #../../run//0714/WAVECAR
+ #../../run//0715/WAVECAR
+ #../../run//0716/WAVECAR
+ #../../run//0717/WAVECAR
+ #../../run//0718/WAVECAR
+ #../../run//0719/WAVECAR
+ #../../run//0720/WAVECAR
+ #../../run//0721/WAVECAR
+ #../../run//0722/WAVECAR
+ #../../run//0723/WAVECAR
+ #../../run//0724/WAVECAR
+ #../../run//0725/WAVECAR
+ #../../run//0726/WAVECAR
+ #../../run//0727/WAVECAR
+ #../../run//0728/WAVECAR
+ #../../run//0729/WAVECAR
+ #../../run//0730/WAVECAR
+ #../../run//0731/WAVECAR
+ #../../run//0732/WAVECAR
+ #../../run//0733/WAVECAR
+ #../../run//0734/WAVECAR
+ #../../run//0735/WAVECAR
+ #../../run//0736/WAVECAR
+ #../../run//0737/WAVECAR
+ #../../run//0738/WAVECAR
+ #../../run//0739/WAVECAR
+ #../../run//0740/WAVECAR
+ #../../run//0741/WAVECAR
+ #../../run//0742/WAVECAR
+ #../../run//0743/WAVECAR
+ #../../run//0744/WAVECAR
+ #../../run//0745/WAVECAR
+ #../../run//0746/WAVECAR
+ #../../run//0747/WAVECAR
+ #../../run//0748/WAVECAR
+ #../../run//0749/WAVECAR
+ #../../run//0750/WAVECAR
+ #../../run//0751/WAVECAR
+ #../../run//0752/WAVECAR
+ #../../run//0753/WAVECAR
+ #../../run//0754/WAVECAR
+ #../../run//0755/WAVECAR
+ #../../run//0756/WAVECAR
+ #../../run//0757/WAVECAR
+ #../../run//0758/WAVECAR
+ #../../run//0759/WAVECAR
+ #../../run//0760/WAVECAR
+ #../../run//0761/WAVECAR
+ #../../run//0762/WAVECAR
+ #../../run//0763/WAVECAR
+ #../../run//0764/WAVECAR
+ #../../run//0765/WAVECAR
+ #../../run//0766/WAVECAR
+ #../../run//0767/WAVECAR
+ #../../run//0768/WAVECAR
+ #../../run//0769/WAVECAR
+ #../../run//0770/WAVECAR
+ #../../run//0771/WAVECAR
+ #../../run//0772/WAVECAR
+ #../../run//0773/WAVECAR
+ #../../run//0774/WAVECAR
+ #../../run//0775/WAVECAR
+ #../../run//0776/WAVECAR
+ #../../run//0777/WAVECAR
+ #../../run//0778/WAVECAR
+ #../../run//0779/WAVECAR
+ #../../run//0780/WAVECAR
+ #../../run//0781/WAVECAR
+ #../../run//0782/WAVECAR
+ #../../run//0783/WAVECAR
+ #../../run//0784/WAVECAR
+ #../../run//0785/WAVECAR
+ #../../run//0786/WAVECAR
+ #../../run//0787/WAVECAR
+ #../../run//0788/WAVECAR
+ #../../run//0789/WAVECAR
+ #../../run//0790/WAVECAR
+ #../../run//0791/WAVECAR
+ #../../run//0792/WAVECAR
+ #../../run//0793/WAVECAR
+ #../../run//0794/WAVECAR
+ #../../run//0795/WAVECAR
+ #../../run//0796/WAVECAR
+ #../../run//0797/WAVECAR
+ #../../run//0798/WAVECAR
+ #../../run//0799/WAVECAR
+ #../../run//0800/WAVECAR
+ #../../run//0801/WAVECAR
+ #../../run//0802/WAVECAR
+ #../../run//0803/WAVECAR
+ #../../run//0804/WAVECAR
+ #../../run//0805/WAVECAR
+ #../../run//0806/WAVECAR
+ #../../run//0807/WAVECAR
+ #../../run//0808/WAVECAR
+ #../../run//0809/WAVECAR
+ #../../run//0810/WAVECAR
+ #../../run//0811/WAVECAR
+ #../../run//0812/WAVECAR
+ #../../run//0813/WAVECAR
+ #../../run//0814/WAVECAR
+ #../../run//0815/WAVECAR
+ #../../run//0816/WAVECAR
+ #../../run//0817/WAVECAR
+ #../../run//0818/WAVECAR
+ #../../run//0819/WAVECAR
+ #../../run//0820/WAVECAR
+ #../../run//0821/WAVECAR
+ #../../run//0822/WAVECAR
+ #../../run//0823/WAVECAR
+ #../../run//0824/WAVECAR
+ #../../run//0825/WAVECAR
+ #../../run//0826/WAVECAR
+ #../../run//0827/WAVECAR
+ #../../run//0828/WAVECAR
+ #../../run//0829/WAVECAR
+ #../../run//0830/WAVECAR
+ #../../run//0831/WAVECAR
+ #../../run//0832/WAVECAR
+ #../../run//0833/WAVECAR
+ #../../run//0834/WAVECAR
+ #../../run//0835/WAVECAR
+ #../../run//0836/WAVECAR
+ #../../run//0837/WAVECAR
+ #../../run//0838/WAVECAR
+ #../../run//0839/WAVECAR
+ #../../run//0840/WAVECAR
+ #../../run//0841/WAVECAR
+ #../../run//0842/WAVECAR
+ #../../run//0843/WAVECAR
+ #../../run//0844/WAVECAR
+ #../../run//0845/WAVECAR
+ #../../run//0846/WAVECAR
+ #../../run//0847/WAVECAR
+ #../../run//0848/WAVECAR
+ #../../run//0849/WAVECAR
+ #../../run//0850/WAVECAR
+ #../../run//0851/WAVECAR
+ #../../run//0852/WAVECAR
+ #../../run//0853/WAVECAR
+ #../../run//0854/WAVECAR
+ #../../run//0855/WAVECAR
+ #../../run//0856/WAVECAR
+ #../../run//0857/WAVECAR
+ #../../run//0858/WAVECAR
+ #../../run//0859/WAVECAR
+ #../../run//0860/WAVECAR
+ #../../run//0861/WAVECAR
+ #../../run//0862/WAVECAR
+ #../../run//0863/WAVECAR
+ #../../run//0864/WAVECAR
+ #../../run//0865/WAVECAR
+ #../../run//0866/WAVECAR
+ #../../run//0867/WAVECAR
+ #../../run//0868/WAVECAR
+ #../../run//0869/WAVECAR
+ #../../run//0870/WAVECAR
+ #../../run//0871/WAVECAR
+ #../../run//0872/WAVECAR
+ #../../run//0873/WAVECAR
+ #../../run//0874/WAVECAR
+ #../../run//0875/WAVECAR
+ #../../run//0876/WAVECAR
+ #../../run//0877/WAVECAR
+ #../../run//0878/WAVECAR
+ #../../run//0879/WAVECAR
+ #../../run//0880/WAVECAR
+ #../../run//0881/WAVECAR
+ #../../run//0882/WAVECAR
+ #../../run//0883/WAVECAR
+ #../../run//0884/WAVECAR
+ #../../run//0885/WAVECAR
+ #../../run//0886/WAVECAR
+ #../../run//0887/WAVECAR
+ #../../run//0888/WAVECAR
+ #../../run//0889/WAVECAR
+ #../../run//0890/WAVECAR
+ #../../run//0891/WAVECAR
+ #../../run//0892/WAVECAR
+ #../../run//0893/WAVECAR
+ #../../run//0894/WAVECAR
+ #../../run//0895/WAVECAR
+ #../../run//0896/WAVECAR
+ #../../run//0897/WAVECAR
+ #../../run//0898/WAVECAR
+ #../../run//0899/WAVECAR
+ #../../run//0900/WAVECAR
+ #../../run//0901/WAVECAR
+ #../../run//0902/WAVECAR
+ #../../run//0903/WAVECAR
+ #../../run//0904/WAVECAR
+ #../../run//0905/WAVECAR
+ #../../run//0906/WAVECAR
+ #../../run//0907/WAVECAR
+ #../../run//0908/WAVECAR
+ #../../run//0909/WAVECAR
+ #../../run//0910/WAVECAR
+ #../../run//0911/WAVECAR
+ #../../run//0912/WAVECAR
+ #../../run//0913/WAVECAR
+ #../../run//0914/WAVECAR
+ #../../run//0915/WAVECAR
+ #../../run//0916/WAVECAR
+ #../../run//0917/WAVECAR
+ #../../run//0918/WAVECAR
+ #../../run//0919/WAVECAR
+ #../../run//0920/WAVECAR
+ #../../run//0921/WAVECAR
+ #../../run//0922/WAVECAR
+ #../../run//0923/WAVECAR
+ #../../run//0924/WAVECAR
+ #../../run//0925/WAVECAR
+ #../../run//0926/WAVECAR
+ #../../run//0927/WAVECAR
+ #../../run//0928/WAVECAR
+ #../../run//0929/WAVECAR
+ #../../run//0930/WAVECAR
+ #../../run//0931/WAVECAR
+ #../../run//0932/WAVECAR
+ #../../run//0933/WAVECAR
+ #../../run//0934/WAVECAR
+ #../../run//0935/WAVECAR
+ #../../run//0936/WAVECAR
+ #../../run//0937/WAVECAR
+ #../../run//0938/WAVECAR
+ #../../run//0939/WAVECAR
+ #../../run//0940/WAVECAR
+ #../../run//0941/WAVECAR
+ #../../run//0942/WAVECAR
+ #../../run//0943/WAVECAR
+ #../../run//0944/WAVECAR
+ #../../run//0945/WAVECAR
+ #../../run//0001/WAVECAR
+ #../../run//0002/WAVECAR
+ #../../run//0003/WAVECAR
+ #../../run//0004/WAVECAR
+ #../../run//0005/WAVECAR
+ #../../run//0006/WAVECAR
+ #../../run//0007/WAVECAR
+ #../../run//0008/WAVECAR
+ #../../run//0009/WAVECAR
+ #../../run//0010/WAVECAR
+ #../../run//0011/WAVECAR
+ #../../run//0012/WAVECAR
+ #../../run//0013/WAVECAR
+ #../../run//0014/WAVECAR
+ #../../run//0015/WAVECAR
+ #../../run//0016/WAVECAR
+ #../../run//0017/WAVECAR
+ #../../run//0018/WAVECAR
+ #../../run//0019/WAVECAR
+ #../../run//0020/WAVECAR
+ #../../run//0021/WAVECAR
+ #../../run//0022/WAVECAR
+ #../../run//0023/WAVECAR
+ #../../run//0024/WAVECAR
+ #../../run//0025/WAVECAR
+ #../../run//0026/WAVECAR
+ #../../run//0027/WAVECAR
+ #../../run//0028/WAVECAR
+ #../../run//0029/WAVECAR
+ #../../run//0030/WAVECAR
+ #../../run//0031/WAVECAR
+ #../../run//0032/WAVECAR
+ #../../run//0033/WAVECAR
+ #../../run//0034/WAVECAR
+ #../../run//0035/WAVECAR
+ #../../run//0036/WAVECAR
+ #../../run//0037/WAVECAR
+ #../../run//0038/WAVECAR
+ #../../run//0039/WAVECAR
+ #../../run//0040/WAVECAR
+ #../../run//0041/WAVECAR
+ #../../run//0042/WAVECAR
+ #../../run//0043/WAVECAR
+ #../../run//0044/WAVECAR
+ #../../run//0045/WAVECAR
+ #../../run//0046/WAVECAR
+ #../../run//0047/WAVECAR
+ #../../run//0048/WAVECAR
+ #../../run//0049/WAVECAR
+ #../../run//0050/WAVECAR
+ #../../run//0051/WAVECAR
+ #../../run//0052/WAVECAR
+ #../../run//0053/WAVECAR
+ #../../run//0054/WAVECAR
+ #../../run//0055/WAVECAR
+ #../../run//0056/WAVECAR
+ #../../run//0057/WAVECAR
+ #../../run//0058/WAVECAR
+ #../../run//0059/WAVECAR
+ #../../run//0060/WAVECAR
+ #../../run//0061/WAVECAR
+ #../../run//0062/WAVECAR
+ #../../run//0063/WAVECAR
+ #../../run//0064/WAVECAR
+ #../../run//0065/WAVECAR
+ #../../run//0066/WAVECAR
+ #../../run//0067/WAVECAR
+ #../../run//0068/WAVECAR
+ #../../run//0069/WAVECAR
+ #../../run//0070/WAVECAR
+ #../../run//0071/WAVECAR
+ #../../run//0072/WAVECAR
+ #../../run//0073/WAVECAR
+ #../../run//0074/WAVECAR
+ #../../run//0075/WAVECAR
+ #../../run//0076/WAVECAR
+ #../../run//0077/WAVECAR
+ #../../run//0078/WAVECAR
+ #../../run//0079/WAVECAR
+ #../../run//0080/WAVECAR
+ #../../run//0081/WAVECAR
+ #../../run//0082/WAVECAR
+ #../../run//0083/WAVECAR
+ #../../run//0084/WAVECAR
+ #../../run//0085/WAVECAR
+ #../../run//0086/WAVECAR
+ #../../run//0087/WAVECAR
+ #../../run//0088/WAVECAR
+ #../../run//0089/WAVECAR
+ #../../run//0090/WAVECAR
+ #../../run//0091/WAVECAR
+ #../../run//0092/WAVECAR
+ #../../run//0093/WAVECAR
+ #../../run//0094/WAVECAR
+ #../../run//0095/WAVECAR
+ #../../run//0096/WAVECAR
+ #../../run//0097/WAVECAR
+ #../../run//0098/WAVECAR
+ #../../run//0099/WAVECAR
+ #../../run//0100/WAVECAR
+ #../../run//0101/WAVECAR
+ #../../run//0102/WAVECAR
+ #../../run//0103/WAVECAR
+ #../../run//0104/WAVECAR
+ #../../run//0105/WAVECAR
+ #../../run//0106/WAVECAR
+ #../../run//0107/WAVECAR
+ #../../run//0108/WAVECAR
+ #../../run//0109/WAVECAR
+ #../../run//0110/WAVECAR
+ #../../run//0111/WAVECAR
+ #../../run//0112/WAVECAR
+ #../../run//0113/WAVECAR
+ #../../run//0114/WAVECAR
+ #../../run//0115/WAVECAR
+ #../../run//0116/WAVECAR
+ #../../run//0117/WAVECAR
+ #../../run//0118/WAVECAR
+ #../../run//0119/WAVECAR
+ #../../run//0120/WAVECAR
+ #../../run//0121/WAVECAR
+ #../../run//0122/WAVECAR
+ #../../run//0123/WAVECAR
+ #../../run//0124/WAVECAR
+ #../../run//0125/WAVECAR
+ #../../run//0126/WAVECAR
+ #../../run//0127/WAVECAR
+ #../../run//0128/WAVECAR
+ #../../run//0129/WAVECAR
+ #../../run//0130/WAVECAR
+ #../../run//0131/WAVECAR
+ #../../run//0132/WAVECAR
+ #../../run//0133/WAVECAR
+ #../../run//0134/WAVECAR
+ #../../run//0135/WAVECAR
+ #../../run//0136/WAVECAR
+ #../../run//0137/WAVECAR
+ #../../run//0138/WAVECAR
+ #../../run//0139/WAVECAR
+ #../../run//0140/WAVECAR
+ #../../run//0141/WAVECAR
+ #../../run//0142/WAVECAR
+ #../../run//0143/WAVECAR
+ #../../run//0144/WAVECAR
+ #../../run//0145/WAVECAR
+ #../../run//0146/WAVECAR
+ #../../run//0147/WAVECAR
+ #../../run//0148/WAVECAR
+ #../../run//0149/WAVECAR
+ #../../run//0150/WAVECAR
+ #../../run//0151/WAVECAR
+ #../../run//0152/WAVECAR
+ #../../run//0153/WAVECAR
+ #../../run//0154/WAVECAR
+ #../../run//0155/WAVECAR
+ #../../run//0156/WAVECAR
+ #../../run//0157/WAVECAR
+ #../../run//0158/WAVECAR
+ #../../run//0159/WAVECAR
+ #../../run//0160/WAVECAR
+ #../../run//0161/WAVECAR
+ #../../run//0162/WAVECAR
+ #../../run//0163/WAVECAR
+ #../../run//0164/WAVECAR
+ #../../run//0165/WAVECAR
+ #../../run//0166/WAVECAR
+ #../../run//0167/WAVECAR
+ #../../run//0168/WAVECAR
+ #../../run//0169/WAVECAR
+ #../../run//0170/WAVECAR
+ #../../run//0171/WAVECAR
+ #../../run//0172/WAVECAR
+ #../../run//0173/WAVECAR
+ #../../run//0174/WAVECAR
+ #../../run//0175/WAVECAR
+ #../../run//0176/WAVECAR
+ #../../run//0177/WAVECAR
+ #../../run//0178/WAVECAR
+ #../../run//0179/WAVECAR
+ #../../run//0180/WAVECAR
+ #../../run//0181/WAVECAR
+ #../../run//0182/WAVECAR
+ #../../run//0183/WAVECAR
+ #../../run//0184/WAVECAR
+ #../../run//0185/WAVECAR
+ #../../run//0186/WAVECAR
+ #../../run//0187/WAVECAR
+ #../../run//0188/WAVECAR
+ #../../run//0189/WAVECAR
+ #../../run//0190/WAVECAR
+ #../../run//0191/WAVECAR
+ #../../run//0192/WAVECAR
+ #../../run//0193/WAVECAR
+ #../../run//0194/WAVECAR
+ #../../run//0195/WAVECAR
+ #../../run//0196/WAVECAR
+ #../../run//0197/WAVECAR
+ #../../run//0198/WAVECAR
+ #../../run//0199/WAVECAR
+ #../../run//0200/WAVECAR
+ #../../run//0201/WAVECAR
+ #../../run//0202/WAVECAR
+ #../../run//0203/WAVECAR
+ #../../run//0204/WAVECAR
+ #../../run//0205/WAVECAR
+ #../../run//0206/WAVECAR
+ #../../run//0207/WAVECAR
+ #../../run//0208/WAVECAR
+ #../../run//0209/WAVECAR
+ #../../run//0210/WAVECAR
+ #../../run//0211/WAVECAR
+ #../../run//0212/WAVECAR
+ #../../run//0213/WAVECAR
+ #../../run//0214/WAVECAR
+ #../../run//0215/WAVECAR
+ #../../run//0216/WAVECAR
+ #../../run//0217/WAVECAR
+ #../../run//0218/WAVECAR
+ #../../run//0219/WAVECAR
+ #../../run//0220/WAVECAR
+ #../../run//0221/WAVECAR
+ #../../run//0222/WAVECAR
+ #../../run//0223/WAVECAR
+ #../../run//0224/WAVECAR
+ #../../run//0225/WAVECAR
+ #../../run//0226/WAVECAR
+ #../../run//0227/WAVECAR
+ #../../run//0228/WAVECAR
+ #../../run//0229/WAVECAR
+ #../../run//0230/WAVECAR
+ #../../run//0231/WAVECAR
+ #../../run//0232/WAVECAR
+ #../../run//0233/WAVECAR
+ #../../run//0234/WAVECAR
+ #../../run//0235/WAVECAR
+ #../../run//0236/WAVECAR
+ #../../run//0237/WAVECAR
+ #../../run//0238/WAVECAR
+ #../../run//0239/WAVECAR
+ #../../run//0240/WAVECAR
+ #../../run//0241/WAVECAR
+ #../../run//0242/WAVECAR
+ #../../run//0243/WAVECAR
+ #../../run//0244/WAVECAR
+ #../../run//0245/WAVECAR
+ #../../run//0246/WAVECAR
+ #../../run//0247/WAVECAR
+ #../../run//0248/WAVECAR
+ #../../run//0249/WAVECAR
+ #../../run//0250/WAVECAR
+ #../../run//0251/WAVECAR
+ #../../run//0252/WAVECAR
+ #../../run//0253/WAVECAR
+ #../../run//0254/WAVECAR
+ #../../run//0255/WAVECAR
+ #../../run//0256/WAVECAR
+ #../../run//0257/WAVECAR
+ #../../run//0258/WAVECAR
+ #../../run//0259/WAVECAR
+ #../../run//0260/WAVECAR
+ #../../run//0261/WAVECAR
+ #../../run//0262/WAVECAR
+ #../../run//0263/WAVECAR
+ #../../run//0264/WAVECAR
+ #../../run//0265/WAVECAR
+ #../../run//0266/WAVECAR
+ #../../run//0267/WAVECAR
+ #../../run//0268/WAVECAR
+ #../../run//0269/WAVECAR
+ #../../run//0270/WAVECAR
+ #../../run//0271/WAVECAR
+ #../../run//0272/WAVECAR
+ #../../run//0273/WAVECAR
+ #../../run//0274/WAVECAR
+ #../../run//0275/WAVECAR
+ #../../run//0276/WAVECAR
+ #../../run//0277/WAVECAR
+ #../../run//0278/WAVECAR
+ #../../run//0279/WAVECAR
+ #../../run//0280/WAVECAR
+ #../../run//0281/WAVECAR
+ #../../run//0282/WAVECAR
+ #../../run//0283/WAVECAR
+ #../../run//0284/WAVECAR
+ #../../run//0285/WAVECAR
+ #../../run//0286/WAVECAR
+ #../../run//0287/WAVECAR
+ #../../run//0288/WAVECAR
+ #../../run//0289/WAVECAR
+ #../../run//0290/WAVECAR
+ #../../run//0291/WAVECAR
+ #../../run//0292/WAVECAR
+ #../../run//0293/WAVECAR
+ #../../run//0294/WAVECAR
+ #../../run//0295/WAVECAR
+ #../../run//0296/WAVECAR
+ #../../run//0297/WAVECAR
+ #../../run//0298/WAVECAR
+ #../../run//0299/WAVECAR
+ #../../run//0300/WAVECAR
+ #../../run//0301/WAVECAR
+ #../../run//0302/WAVECAR
+ #../../run//0303/WAVECAR
+ #../../run//0304/WAVECAR
+ #../../run//0305/WAVECAR
+ #../../run//0306/WAVECAR
+ #../../run//0307/WAVECAR
+ #../../run//0308/WAVECAR
+ #../../run//0309/WAVECAR
+ #../../run//0310/WAVECAR
+ #../../run//0311/WAVECAR
+ #../../run//0312/WAVECAR
+ #../../run//0313/WAVECAR
+ #../../run//0314/WAVECAR
+ #../../run//0315/WAVECAR
+ #../../run//0316/WAVECAR
+ #../../run//0317/WAVECAR
+ #../../run//0318/WAVECAR
+ #../../run//0319/WAVECAR
+ #../../run//0320/WAVECAR
+ #../../run//0321/WAVECAR
+ #../../run//0322/WAVECAR
+ #../../run//0323/WAVECAR
+ #../../run//0324/WAVECAR
+ #../../run//0325/WAVECAR
+ #../../run//0326/WAVECAR
+ #../../run//0327/WAVECAR
+ #../../run//0328/WAVECAR
+ #../../run//0329/WAVECAR
+ #../../run//0330/WAVECAR
+ #../../run//0331/WAVECAR
+ #../../run//0332/WAVECAR
+ #../../run//0333/WAVECAR
+ #../../run//0334/WAVECAR
+ #../../run//0335/WAVECAR
+ #../../run//0336/WAVECAR
+ #../../run//0337/WAVECAR
+ #../../run//0338/WAVECAR
+ #../../run//0339/WAVECAR
+ #../../run//0340/WAVECAR
+ #../../run//0341/WAVECAR
+ #../../run//0342/WAVECAR
+ #../../run//0343/WAVECAR
+ #../../run//0344/WAVECAR
+ #../../run//0345/WAVECAR
+ #../../run//0346/WAVECAR
+ #../../run//0347/WAVECAR
+ #../../run//0348/WAVECAR
+ #../../run//0349/WAVECAR
+ #../../run//0350/WAVECAR
+ #../../run//0351/WAVECAR
+ #../../run//0352/WAVECAR
+ #../../run//0353/WAVECAR
+ #../../run//0354/WAVECAR
+ #../../run//0355/WAVECAR
+ #../../run//0356/WAVECAR
+ #../../run//0357/WAVECAR
+ #../../run//0358/WAVECAR
+ #../../run//0359/WAVECAR
+ #../../run//0360/WAVECAR
+ #../../run//0361/WAVECAR
+ #../../run//0362/WAVECAR
+ #../../run//0363/WAVECAR
+ #../../run//0364/WAVECAR
+ #../../run//0365/WAVECAR
+ #../../run//0366/WAVECAR
+ #../../run//0367/WAVECAR
+ #../../run//0368/WAVECAR
+ #../../run//0369/WAVECAR
+ #../../run//0370/WAVECAR
+ #../../run//0371/WAVECAR
+ #../../run//0372/WAVECAR
+ #../../run//0373/WAVECAR
+ #../../run//0374/WAVECAR
+ #../../run//0375/WAVECAR
+ #../../run//0376/WAVECAR
+ #../../run//0377/WAVECAR
+ #../../run//0378/WAVECAR
+ #../../run//0379/WAVECAR
+ #../../run//0380/WAVECAR
+ #../../run//0381/WAVECAR
+ #../../run//0382/WAVECAR
+ #../../run//0383/WAVECAR
+ #../../run//0384/WAVECAR
+ #../../run//0385/WAVECAR
+ #../../run//0386/WAVECAR
+ #../../run//0387/WAVECAR
+ #../../run//0388/WAVECAR
+ #../../run//0389/WAVECAR
+ #../../run//0390/WAVECAR
+ #../../run//0391/WAVECAR
+ #../../run//0392/WAVECAR
+ #../../run//0393/WAVECAR
+ #../../run//0394/WAVECAR
+ #../../run//0395/WAVECAR
+ #../../run//0396/WAVECAR
+ #../../run//0397/WAVECAR
+ #../../run//0398/WAVECAR
+ #../../run//0399/WAVECAR
+ #../../run//0400/WAVECAR
+ #../../run//0401/WAVECAR
+ #../../run//0402/WAVECAR
+ #../../run//0403/WAVECAR
+ #../../run//0404/WAVECAR
+ #../../run//0405/WAVECAR
+ #../../run//0406/WAVECAR
+ #../../run//0407/WAVECAR
+ #../../run//0408/WAVECAR
+ #../../run//0409/WAVECAR
+ #../../run//0410/WAVECAR
+ #../../run//0411/WAVECAR
+ #../../run//0412/WAVECAR
+ #../../run//0413/WAVECAR
+ #../../run//0414/WAVECAR
+ #../../run//0415/WAVECAR
+ #../../run//0416/WAVECAR
+ #../../run//0417/WAVECAR
+ #../../run//0418/WAVECAR
+ #../../run//0419/WAVECAR
+ #../../run//0420/WAVECAR
+ #../../run//0421/WAVECAR
+ #../../run//0422/WAVECAR
+ #../../run//0423/WAVECAR
+ #../../run//0424/WAVECAR
+ #../../run//0425/WAVECAR
+ #../../run//0426/WAVECAR
+ #../../run//0427/WAVECAR
+ #../../run//0428/WAVECAR
+ #../../run//0429/WAVECAR
+ #../../run//0430/WAVECAR
+ #../../run//0431/WAVECAR
+ #../../run//0432/WAVECAR
+ #../../run//0433/WAVECAR
+ #../../run//0434/WAVECAR
+ #../../run//0435/WAVECAR
+ #../../run//0436/WAVECAR
+ #../../run//0437/WAVECAR
+ #../../run//0438/WAVECAR
+ #../../run//0439/WAVECAR
+ #../../run//0440/WAVECAR
+ #../../run//0441/WAVECAR
+ #../../run//0442/WAVECAR
+ #../../run//0443/WAVECAR
+ #../../run//0444/WAVECAR
+ #../../run//0445/WAVECAR
+ #../../run//0446/WAVECAR
+ #../../run//0447/WAVECAR
+ #../../run//0448/WAVECAR
+ #../../run//0449/WAVECAR
+ #../../run//0450/WAVECAR
+ #../../run//0451/WAVECAR
+ #../../run//0452/WAVECAR
+ #../../run//0453/WAVECAR
+ #../../run//0454/WAVECAR
+ #../../run//0455/WAVECAR
+ #../../run//0456/WAVECAR
+ #../../run//0457/WAVECAR
+ #../../run//0458/WAVECAR
+ #../../run//0459/WAVECAR
+ #../../run//0460/WAVECAR
+ #../../run//0461/WAVECAR
+ #../../run//0462/WAVECAR
+ #../../run//0463/WAVECAR
+ #../../run//0464/WAVECAR
+ #../../run//0465/WAVECAR
+ #../../run//0466/WAVECAR
+ #../../run//0467/WAVECAR
+ #../../run//0468/WAVECAR
+ #../../run//0469/WAVECAR
+ #../../run//0470/WAVECAR
+ #../../run//0471/WAVECAR
+ #../../run//0472/WAVECAR
+ #../../run//0473/WAVECAR
+ #../../run//0474/WAVECAR
+ #../../run//0475/WAVECAR
+ #../../run//0476/WAVECAR
+ #../../run//0477/WAVECAR
+ #../../run//0478/WAVECAR
+ #../../run//0479/WAVECAR
+ #../../run//0480/WAVECAR
+ #../../run//0481/WAVECAR
+ #../../run//0482/WAVECAR
+ #../../run//0483/WAVECAR
+ #../../run//0484/WAVECAR
+ #../../run//0485/WAVECAR
+ #../../run//0486/WAVECAR
+ #../../run//0487/WAVECAR
+ #../../run//0488/WAVECAR
+ #../../run//0489/WAVECAR
+ #../../run//0490/WAVECAR
+ #../../run//0491/WAVECAR
+ #../../run//0492/WAVECAR
+ #../../run//0493/WAVECAR
+ #../../run//0494/WAVECAR
+ #../../run//0495/WAVECAR
+ #../../run//0496/WAVECAR
+ #../../run//0497/WAVECAR
+ #../../run//0498/WAVECAR
+ #../../run//0499/WAVECAR
+ #../../run//0500/WAVECAR
+ #../../run//0501/WAVECAR
+ #../../run//0502/WAVECAR
+ #../../run//0503/WAVECAR
+ #../../run//0504/WAVECAR
+ #../../run//0505/WAVECAR
+ #../../run//0506/WAVECAR
+ #../../run//0507/WAVECAR
+ #../../run//0508/WAVECAR
+ #../../run//0509/WAVECAR
+ #../../run//0510/WAVECAR
+ #../../run//0511/WAVECAR
+ #../../run//0512/WAVECAR
+ #../../run//0513/WAVECAR
+ #../../run//0514/WAVECAR
+ #../../run//0515/WAVECAR
+ #../../run//0516/WAVECAR
+ #../../run//0517/WAVECAR
+ #../../run//0518/WAVECAR
+ #../../run//0519/WAVECAR
+ #../../run//0520/WAVECAR
+ #../../run//0521/WAVECAR
+ #../../run//0522/WAVECAR
+ #../../run//0523/WAVECAR
+ #../../run//0524/WAVECAR
+ #../../run//0525/WAVECAR
+ #../../run//0526/WAVECAR
+ #../../run//0527/WAVECAR
+ #../../run//0528/WAVECAR
+ #../../run//0529/WAVECAR
+ #../../run//0530/WAVECAR
+ #../../run//0531/WAVECAR
+ #../../run//0532/WAVECAR
+ #../../run//0533/WAVECAR
+ #../../run//0534/WAVECAR
+ #../../run//0535/WAVECAR
+ #../../run//0536/WAVECAR
+ #../../run//0537/WAVECAR
+ #../../run//0538/WAVECAR
+ #../../run//0539/WAVECAR
+ #../../run//0540/WAVECAR
+ #../../run//0541/WAVECAR
+ #../../run//0542/WAVECAR
+ #../../run//0543/WAVECAR
+ #../../run//0544/WAVECAR
+ #../../run//0545/WAVECAR
+ #../../run//0546/WAVECAR
+ #../../run//0547/WAVECAR
+ #../../run//0548/WAVECAR
+ #../../run//0549/WAVECAR
+ #../../run//0550/WAVECAR
+ #../../run//0551/WAVECAR
+ #../../run//0552/WAVECAR
+ #../../run//0553/WAVECAR
+ #../../run//0554/WAVECAR
+ #../../run//0555/WAVECAR
+ #../../run//0556/WAVECAR
+ #../../run//0557/WAVECAR
+ #../../run//0558/WAVECAR
+ #../../run//0559/WAVECAR
+ #../../run//0560/WAVECAR
+ #../../run//0561/WAVECAR
+ #../../run//0562/WAVECAR
+ #../../run//0563/WAVECAR
+ #../../run//0564/WAVECAR
+ #../../run//0565/WAVECAR
+ #../../run//0566/WAVECAR
+ #../../run//0567/WAVECAR
+ #../../run//0568/WAVECAR
+ #../../run//0569/WAVECAR
+ #../../run//0570/WAVECAR
+ #../../run//0571/WAVECAR
+ #../../run//0572/WAVECAR
+ #../../run//0573/WAVECAR
+ #../../run//0574/WAVECAR
+ #../../run//0575/WAVECAR
+ #../../run//0576/WAVECAR
+ #../../run//0577/WAVECAR
+ #../../run//0578/WAVECAR
+ #../../run//0579/WAVECAR
+ #../../run//0580/WAVECAR
+ #../../run//0581/WAVECAR
+ #../../run//0582/WAVECAR
+ #../../run//0583/WAVECAR
+ #../../run//0584/WAVECAR
+ #../../run//0585/WAVECAR
+ #../../run//0586/WAVECAR
+ #../../run//0587/WAVECAR
+ #../../run//0588/WAVECAR
+ #../../run//0589/WAVECAR
+ #../../run//0590/WAVECAR
+ #../../run//0591/WAVECAR
+ #../../run//0592/WAVECAR
+ #../../run//0593/WAVECAR
+ #../../run//0594/WAVECAR
+ #../../run//0595/WAVECAR
+ #../../run//0596/WAVECAR
+ #../../run//0597/WAVECAR
+ #../../run//0598/WAVECAR
+ #../../run//0599/WAVECAR
+ #../../run//0600/WAVECAR
+ #../../run//0601/WAVECAR
+ #../../run//0602/WAVECAR
+ #../../run//0603/WAVECAR
+ #../../run//0604/WAVECAR
+ #../../run//0605/WAVECAR
+ #../../run//0606/WAVECAR
+ #../../run//0607/WAVECAR
+ #../../run//0608/WAVECAR
+ #../../run//0609/WAVECAR
+ #../../run//0610/WAVECAR
+ #../../run//0611/WAVECAR
+ #../../run//0612/WAVECAR
+ #../../run//0613/WAVECAR
+ #../../run//0614/WAVECAR
+ #../../run//0615/WAVECAR
+ #../../run//0616/WAVECAR
+ #../../run//0617/WAVECAR
+ #../../run//0618/WAVECAR
+ #../../run//0619/WAVECAR
+ #../../run//0620/WAVECAR
+ #../../run//0621/WAVECAR
+ #../../run//0622/WAVECAR
+ #../../run//0623/WAVECAR
+ #../../run//0624/WAVECAR
+ #../../run//0625/WAVECAR
+ #../../run//0626/WAVECAR
+ #../../run//0627/WAVECAR
+ #../../run//0628/WAVECAR
+ #../../run//0629/WAVECAR
+ #../../run//0630/WAVECAR
+ #../../run//0631/WAVECAR
+ #../../run//0632/WAVECAR
+ #../../run//0633/WAVECAR
+ #../../run//0634/WAVECAR
+ #../../run//0635/WAVECAR
+ #../../run//0636/WAVECAR
+ #../../run//0637/WAVECAR
+ #../../run//0638/WAVECAR
+ #../../run//0639/WAVECAR
+ #../../run//0640/WAVECAR
+ #../../run//0641/WAVECAR
+ #../../run//0642/WAVECAR
+ #../../run//0643/WAVECAR
+ #../../run//0644/WAVECAR
+ #../../run//0645/WAVECAR
+ #../../run//0646/WAVECAR
+ #../../run//0647/WAVECAR
+ #../../run//0648/WAVECAR
+ #../../run//0649/WAVECAR
+ #../../run//0650/WAVECAR
+ #../../run//0651/WAVECAR
+ #../../run//0652/WAVECAR
+ #../../run//0653/WAVECAR
+ #../../run//0654/WAVECAR
+ #../../run//0655/WAVECAR
+ #../../run//0656/WAVECAR
+ #../../run//0657/WAVECAR
+ #../../run//0658/WAVECAR
+ #../../run//0659/WAVECAR
+ #../../run//0660/WAVECAR
+ #../../run//0661/WAVECAR
+ #../../run//0662/WAVECAR
+ #../../run//0663/WAVECAR
+ #../../run//0664/WAVECAR
+ #../../run//0665/WAVECAR
+ #../../run//0666/WAVECAR
+ #../../run//0667/WAVECAR
+ #../../run//0668/WAVECAR
+ #../../run//0669/WAVECAR
+ #../../run//0670/WAVECAR
+ #../../run//0671/WAVECAR
+ #../../run//0672/WAVECAR
+ #../../run//0673/WAVECAR
+ #../../run//0674/WAVECAR
+ #../../run//0675/WAVECAR
+ #../../run//0676/WAVECAR
+ #../../run//0677/WAVECAR
+ #../../run//0678/WAVECAR
+ #../../run//0679/WAVECAR
+ #../../run//0680/WAVECAR
+ #../../run//0681/WAVECAR
+ #../../run//0682/WAVECAR
+ #../../run//0683/WAVECAR
+ #../../run//0684/WAVECAR
+ #../../run//0685/WAVECAR
+ #../../run//0686/WAVECAR
+ #../../run//0687/WAVECAR
+ #../../run//0688/WAVECAR
+ #../../run//0689/WAVECAR
+ #../../run//0690/WAVECAR
+ #../../run//0691/WAVECAR
+ #../../run//0692/WAVECAR
+ #../../run//0693/WAVECAR
+ #../../run//0694/WAVECAR
+ #../../run//0695/WAVECAR
+ #../../run//0696/WAVECAR
+ #../../run//0697/WAVECAR
+ #../../run//0698/WAVECAR
+ #../../run//0699/WAVECAR
+ #../../run//0700/WAVECAR
+ #../../run//0701/WAVECAR
+ #../../run//0702/WAVECAR
+ #../../run//0703/WAVECAR
+ #../../run//0704/WAVECAR
+ #../../run//0705/WAVECAR
+ #../../run//0706/WAVECAR
+ #../../run//0707/WAVECAR
+ #../../run//0708/WAVECAR
+ #../../run//0709/WAVECAR
+ #../../run//0710/WAVECAR
+ #../../run//0711/WAVECAR
+ #../../run//0712/WAVECAR
+ #../../run//0713/WAVECAR
+ #../../run//0714/WAVECAR
+ #../../run//0715/WAVECAR
+ #../../run//0716/WAVECAR
+ #../../run//0717/WAVECAR
+ #../../run//0718/WAVECAR
+ #../../run//0719/WAVECAR
+ #../../run//0720/WAVECAR
+ #../../run//0721/WAVECAR
+ #../../run//0722/WAVECAR
+ #../../run//0723/WAVECAR
+ #../../run//0724/WAVECAR
+ #../../run//0725/WAVECAR
+ #../../run//0726/WAVECAR
+ #../../run//0727/WAVECAR
+ #../../run//0728/WAVECAR
+ #../../run//0729/WAVECAR
+ #../../run//0730/WAVECAR
+ #../../run//0731/WAVECAR
+ #../../run//0732/WAVECAR
+ #../../run//0733/WAVECAR
+ #../../run//0734/WAVECAR
+ #../../run//0735/WAVECAR
+ #../../run//0736/WAVECAR
+ #../../run//0737/WAVECAR
+ #../../run//0738/WAVECAR
+ #../../run//0739/WAVECAR
+ #../../run//0740/WAVECAR
+ #../../run//0741/WAVECAR
+ #../../run//0742/WAVECAR
+ #../../run//0743/WAVECAR
+ #../../run//0744/WAVECAR
+ #../../run//0745/WAVECAR
+ #../../run//0746/WAVECAR
+ #../../run//0747/WAVECAR
+ #../../run//0748/WAVECAR
+ #../../run//0749/WAVECAR
+ #../../run//0750/WAVECAR
+ #../../run//0751/WAVECAR
+ #../../run//0752/WAVECAR
+ #../../run//0753/WAVECAR
+ #../../run//0754/WAVECAR
+ #../../run//0755/WAVECAR
+ #../../run//0756/WAVECAR
+ #../../run//0757/WAVECAR
+ #../../run//0758/WAVECAR
+ #../../run//0759/WAVECAR
+ #../../run//0760/WAVECAR
+ #../../run//0761/WAVECAR
+ #../../run//0762/WAVECAR
+ #../../run//0763/WAVECAR
+ #../../run//0764/WAVECAR
+ #../../run//0765/WAVECAR
+ #../../run//0766/WAVECAR
+ #../../run//0767/WAVECAR
+ #../../run//0768/WAVECAR
+ #../../run//0769/WAVECAR
+ #../../run//0770/WAVECAR
+ #../../run//0771/WAVECAR
+ #../../run//0772/WAVECAR
+ #../../run//0773/WAVECAR
+ #../../run//0774/WAVECAR
+ #../../run//0775/WAVECAR
+ #../../run//0776/WAVECAR
+ #../../run//0777/WAVECAR
+ #../../run//0778/WAVECAR
+ #../../run//0779/WAVECAR
+ #../../run//0780/WAVECAR
+ #../../run//0781/WAVECAR
+ #../../run//0782/WAVECAR
+ #../../run//0783/WAVECAR
+ #../../run//0784/WAVECAR
+ #../../run//0785/WAVECAR
+ #../../run//0786/WAVECAR
+ #../../run//0787/WAVECAR
+ #../../run//0788/WAVECAR
+ #../../run//0789/WAVECAR
+ #../../run//0790/WAVECAR
+ #../../run//0791/WAVECAR
+ #../../run//0792/WAVECAR
+ #../../run//0793/WAVECAR
+ #../../run//0794/WAVECAR
+ #../../run//0795/WAVECAR
+ #../../run//0796/WAVECAR
+ #../../run//0797/WAVECAR
+ #../../run//0798/WAVECAR
+ #../../run//0799/WAVECAR
+ #../../run//0800/WAVECAR
+ #../../run//0801/WAVECAR
+ #../../run//0802/WAVECAR
+ #../../run//0803/WAVECAR
+ #../../run//0804/WAVECAR
+ #../../run//0805/WAVECAR
+ #../../run//0806/WAVECAR
+ #../../run//0807/WAVECAR
+ #../../run//0808/WAVECAR
+ #../../run//0809/WAVECAR
+ #../../run//0810/WAVECAR
+ #../../run//0811/WAVECAR
+ #../../run//0812/WAVECAR
+ #../../run//0813/WAVECAR
+ #../../run//0814/WAVECAR
+ #../../run//0815/WAVECAR
+ #../../run//0816/WAVECAR
+ #../../run//0817/WAVECAR
+ #../../run//0818/WAVECAR
+ #../../run//0819/WAVECAR
+ #../../run//0820/WAVECAR
+ #../../run//0821/WAVECAR
+ #../../run//0822/WAVECAR
+ #../../run//0823/WAVECAR
+ #../../run//0824/WAVECAR
+ #../../run//0825/WAVECAR
+ #../../run//0826/WAVECAR
+ #../../run//0827/WAVECAR
+ #../../run//0828/WAVECAR
+ #../../run//0829/WAVECAR
+ #../../run//0830/WAVECAR
+ #../../run//0831/WAVECAR
+ #../../run//0832/WAVECAR
+ #../../run//0833/WAVECAR
+ #../../run//0834/WAVECAR
+ #../../run//0835/WAVECAR
+ #../../run//0836/WAVECAR
+ #../../run//0837/WAVECAR
+ #../../run//0838/WAVECAR
+ #../../run//0839/WAVECAR
+ #../../run//0840/WAVECAR
+ #../../run//0841/WAVECAR
+ #../../run//0842/WAVECAR
+ #../../run//0843/WAVECAR
+ #../../run//0844/WAVECAR
+ #../../run//0845/WAVECAR
+ #../../run//0846/WAVECAR
+ #../../run//0847/WAVECAR
+ #../../run//0848/WAVECAR
+ #../../run//0849/WAVECAR
+ #../../run//0850/WAVECAR
+ #../../run//0851/WAVECAR
+ #../../run//0852/WAVECAR
+ #../../run//0853/WAVECAR
+ #../../run//0854/WAVECAR
+ #../../run//0855/WAVECAR
+ #../../run//0856/WAVECAR
+ #../../run//0857/WAVECAR
+ #../../run//0858/WAVECAR
+ #../../run//0859/WAVECAR
+ #../../run//0860/WAVECAR
+ #../../run//0861/WAVECAR
+ #../../run//0862/WAVECAR
+ #../../run//0863/WAVECAR
+ #../../run//0864/WAVECAR
+ #../../run//0865/WAVECAR
+ #../../run//0866/WAVECAR
+ #../../run//0867/WAVECAR
+ #../../run//0868/WAVECAR
+ #../../run//0869/WAVECAR
+ #../../run//0870/WAVECAR
+ #../../run//0871/WAVECAR
+ #../../run//0872/WAVECAR
+ #../../run//0873/WAVECAR
+ #../../run//0874/WAVECAR
+ #../../run//0875/WAVECAR
+ #../../run//0876/WAVECAR
+ #../../run//0877/WAVECAR
+ #../../run//0878/WAVECAR
+ #../../run//0879/WAVECAR
+ #../../run//0880/WAVECAR
+ #../../run//0881/WAVECAR
+ #../../run//0882/WAVECAR
+ #../../run//0883/WAVECAR
+ #../../run//0884/WAVECAR
+ #../../run//0885/WAVECAR
+ #../../run//0886/WAVECAR
+ #../../run//0887/WAVECAR
+ #../../run//0888/WAVECAR
+ #../../run//0889/WAVECAR
+ #../../run//0890/WAVECAR
+ #../../run//0891/WAVECAR
+ #../../run//0892/WAVECAR
+ #../../run//0893/WAVECAR
+ #../../run//0894/WAVECAR
+ #../../run//0895/WAVECAR
+ #../../run//0896/WAVECAR
+ #../../run//0897/WAVECAR
+ #../../run//0898/WAVECAR
+ #../../run//0899/WAVECAR
+ #../../run//0900/WAVECAR
+ #../../run//0901/WAVECAR
+ #../../run//0902/WAVECAR
+ #../../run//0903/WAVECAR
+ #../../run//0904/WAVECAR
+ #../../run//0905/WAVECAR
+ #../../run//0906/WAVECAR
+ #../../run//0907/WAVECAR
+ #../../run//0908/WAVECAR
+ #../../run//0909/WAVECAR
+ #../../run//0910/WAVECAR
+ #../../run//0911/WAVECAR
+ #../../run//0912/WAVECAR
+ #../../run//0913/WAVECAR
+ #../../run//0914/WAVECAR
+ #../../run//0915/WAVECAR
+ #../../run//0916/WAVECAR
+ #../../run//0917/WAVECAR
+ #../../run//0918/WAVECAR
+ #../../run//0919/WAVECAR
+ #../../run//0920/WAVECAR
+ #../../run//0921/WAVECAR
+ #../../run//0922/WAVECAR
+ #../../run//0923/WAVECAR
+ #../../run//0924/WAVECAR
+ #../../run//0925/WAVECAR
+ #../../run//0926/WAVECAR
+ #../../run//0927/WAVECAR
+ #../../run//0928/WAVECAR
+ #../../run//0929/WAVECAR
+ #../../run//0930/WAVECAR
+ #../../run//0931/WAVECAR
+ #../../run//0932/WAVECAR
+ #../../run//0933/WAVECAR
+ #../../run//0934/WAVECAR
+ #../../run//0935/WAVECAR
+ #../../run//0936/WAVECAR
+ #../../run//0937/WAVECAR
+ #../../run//0938/WAVECAR
+ #../../run//0939/WAVECAR
+ #../../run//0940/WAVECAR
+ #../../run//0941/WAVECAR
+ #../../run//0942/WAVECAR
+ #../../run//0943/WAVECAR
+ #../../run//0944/WAVECAR
+ #../../run//0945/WAVECAR
+ #../../run//0946/WAVECAR
+ #../../run//0947/WAVECAR
+ #../../run//0948/WAVECAR
+ #../../run//0949/WAVECAR
+ #../../run//0950/WAVECAR
+ #../../run//0951/WAVECAR
+ #../../run//0952/WAVECAR
+ #../../run//0953/WAVECAR
+ #../../run//0954/WAVECAR
+ #../../run//0955/WAVECAR
+ #../../run//0956/WAVECAR
+ #../../run//0957/WAVECAR
+ #../../run//0958/WAVECAR
+ #../../run//0959/WAVECAR
+ #../../run//0960/WAVECAR
+ #../../run//0961/WAVECAR
+ #../../run//0962/WAVECAR
+ #../../run//0963/WAVECAR
+ #../../run//0964/WAVECAR
+ #../../run//0965/WAVECAR
+ #../../run//0966/WAVECAR
+ #../../run//0967/WAVECAR
+ #../../run//0968/WAVECAR
+ #../../run//0969/WAVECAR
+ #../../run//0970/WAVECAR
+ #../../run//0971/WAVECAR
+ #../../run//0972/WAVECAR
+ #../../run//0973/WAVECAR
+ #../../run//0974/WAVECAR
+ #../../run//0975/WAVECAR
+ #../../run//0976/WAVECAR
+ #../../run//0977/WAVECAR
+ #../../run//0978/WAVECAR
+ #../../run//0979/WAVECAR
+ #../../run//0980/WAVECAR
+ #../../run//0981/WAVECAR
+ #../../run//0982/WAVECAR
+ #../../run//0983/WAVECAR
+ #../../run//0984/WAVECAR
+ #../../run//0985/WAVECAR
+ #../../run//0986/WAVECAR
+ #../../run//0987/WAVECAR
+ #../../run//0988/WAVECAR
+ #../../run//0989/WAVECAR
+ #../../run//0990/WAVECAR
+ #../../run//0991/WAVECAR
+ #../../run//0992/WAVECAR
+ #../../run//0993/WAVECAR
+ #../../run//0994/WAVECAR
+ #../../run//0995/WAVECAR
+ #../../run//0996/WAVECAR
+ #../../run//0997/WAVECAR
+ #../../run//0998/WAVECAR
+ #../../run//0999/WAVECAR
+ #../../run//1000/WAVECAR
+ #../../run//1001/WAVECAR
+ #../../run//1002/WAVECAR
+ #../../run//1003/WAVECAR
+ #../../run//1004/WAVECAR
+ #../../run//1005/WAVECAR
+ #../../run//1006/WAVECAR
+ #../../run//1007/WAVECAR
+ #../../run//1008/WAVECAR
+ #../../run//1009/WAVECAR
+ #../../run//1010/WAVECAR
+ #../../run//1011/WAVECAR
+ #../../run//1012/WAVECAR
+ #../../run//1013/WAVECAR
+ #../../run//1014/WAVECAR
+ #../../run//1015/WAVECAR
+ #../../run//1016/WAVECAR
+ #../../run//1017/WAVECAR
+ #../../run//1018/WAVECAR
+ #../../run//1019/WAVECAR
+ #../../run//1020/WAVECAR
+ #../../run//1021/WAVECAR
+ #../../run//1022/WAVECAR
+ #../../run//1023/WAVECAR
+ #../../run//1024/WAVECAR
+ #../../run//1025/WAVECAR
+ #../../run//1026/WAVECAR
+ #../../run//1027/WAVECAR
+ #../../run//1028/WAVECAR
+ #../../run//1029/WAVECAR
+ #../../run//1030/WAVECAR
+ #../../run//1031/WAVECAR
+ #../../run//1032/WAVECAR
+ #../../run//1033/WAVECAR
+ #../../run//1034/WAVECAR
+ #../../run//1035/WAVECAR
+ #../../run//1036/WAVECAR
+ #../../run//1037/WAVECAR
+ #../../run//1038/WAVECAR
+ #../../run//1039/WAVECAR
+ #../../run//1040/WAVECAR
+ #../../run//1041/WAVECAR
+ #../../run//1042/WAVECAR
+ #../../run//1043/WAVECAR
+ #../../run//1044/WAVECAR
+ #../../run//1045/WAVECAR
+ #../../run//1046/WAVECAR
+ #../../run//1047/WAVECAR
+ #../../run//1048/WAVECAR
+ #../../run//1049/WAVECAR
+ #../../run//1050/WAVECAR
+ #../../run//1051/WAVECAR
+ #../../run//1052/WAVECAR
+ #../../run//1053/WAVECAR
+ #../../run//1054/WAVECAR
+ #../../run//1055/WAVECAR
+ #../../run//1056/WAVECAR
+ #../../run//1057/WAVECAR
+ #../../run//1058/WAVECAR
+ #../../run//1059/WAVECAR
+ #../../run//1060/WAVECAR
+ #../../run//1061/WAVECAR
+ #../../run//1062/WAVECAR
+ #../../run//1063/WAVECAR
+ #../../run//1064/WAVECAR
+ #../../run//1065/WAVECAR
+ #../../run//1066/WAVECAR
+ #../../run//1067/WAVECAR
+ #../../run//1068/WAVECAR
+ #../../run//1069/WAVECAR
+ #../../run//1070/WAVECAR
+ #../../run//1071/WAVECAR
+ #../../run//1072/WAVECAR
+ #../../run//1073/WAVECAR
+ #../../run//1074/WAVECAR
+ #../../run//1075/WAVECAR
+ #../../run//1076/WAVECAR
+ #../../run//1077/WAVECAR
+ #../../run//1078/WAVECAR
+ #../../run//1079/WAVECAR
+ #../../run//1080/WAVECAR
+ #../../run//1081/WAVECAR
+ #../../run//1082/WAVECAR
+ #../../run//1083/WAVECAR
+ #../../run//1084/WAVECAR
+ #../../run//1085/WAVECAR
+ #../../run//1086/WAVECAR
+ #../../run//1087/WAVECAR
+ #../../run//1088/WAVECAR
+ #../../run//1089/WAVECAR
+ #../../run//1090/WAVECAR
+ #../../run//1091/WAVECAR
+ #../../run//1092/WAVECAR
+ #../../run//1093/WAVECAR
+ #../../run//1094/WAVECAR
+ #../../run//1095/WAVECAR
+ #../../run//1096/WAVECAR
+ #../../run//1097/WAVECAR
+ #../../run//1098/WAVECAR
+ #../../run//1099/WAVECAR
+ #../../run//1100/WAVECAR
+ #../../run//1101/WAVECAR
+ #../../run//1102/WAVECAR
+ #../../run//1103/WAVECAR
+ #../../run//1104/WAVECAR
+ #../../run//1105/WAVECAR
+ #../../run//1106/WAVECAR
+ #../../run//1107/WAVECAR
+ #../../run//1108/WAVECAR
+ #../../run//1109/WAVECAR
+ #../../run//1110/WAVECAR
+ #../../run//1111/WAVECAR
+ #../../run//1112/WAVECAR
+ #../../run//1113/WAVECAR
+ #../../run//1114/WAVECAR
+ #../../run//1115/WAVECAR
+ #../../run//1116/WAVECAR
+ #../../run//1117/WAVECAR
+ #../../run//1118/WAVECAR
+ #../../run//1119/WAVECAR
+ #../../run//1120/WAVECAR
+ #../../run//1121/WAVECAR
+ #../../run//1122/WAVECAR
+ #../../run//1123/WAVECAR
+ #../../run//1124/WAVECAR
+ #../../run//1125/WAVECAR
+ #../../run//1126/WAVECAR
+ #../../run//1127/WAVECAR
+ #../../run//1128/WAVECAR
+ #../../run//1129/WAVECAR
+ #../../run//1130/WAVECAR
+ #../../run//1131/WAVECAR
+ #../../run//1132/WAVECAR
+ #../../run//1133/WAVECAR
+ #../../run//1134/WAVECAR
+ #../../run//1135/WAVECAR
+ #../../run//1136/WAVECAR
+ #../../run//1137/WAVECAR
+ #../../run//1138/WAVECAR
+ #../../run//1139/WAVECAR
+ #../../run//1140/WAVECAR
+ #../../run//1141/WAVECAR
+ #../../run//1142/WAVECAR
+ #../../run//1143/WAVECAR
+ #../../run//1144/WAVECAR
+ #../../run//1145/WAVECAR
+ #../../run//1146/WAVECAR
+ #../../run//1147/WAVECAR
+ #../../run//1148/WAVECAR
+ #../../run//1149/WAVECAR
+ #../../run//1150/WAVECAR
+ #../../run//1151/WAVECAR
+ #../../run//1152/WAVECAR
+ #../../run//1153/WAVECAR
+ #../../run//1154/WAVECAR
+ #../../run//1155/WAVECAR
+ #../../run//1156/WAVECAR
+ #../../run//1157/WAVECAR
+ #../../run//1158/WAVECAR
+ #../../run//1159/WAVECAR
+ #../../run//1160/WAVECAR
+ #../../run//1161/WAVECAR
+ #../../run//1162/WAVECAR
+ #../../run//1163/WAVECAR
+ #../../run//1164/WAVECAR
+ #../../run//1165/WAVECAR
+ #../../run//1166/WAVECAR
+ #../../run//1167/WAVECAR
+ #../../run//1168/WAVECAR
+ #../../run//1169/WAVECAR
+ #../../run//1170/WAVECAR
+ #../../run//1171/WAVECAR
+ #../../run//1172/WAVECAR
+ #../../run//1173/WAVECAR
+ #../../run//1174/WAVECAR
+ #../../run//1175/WAVECAR
+ #../../run//1176/WAVECAR
+ #../../run//1177/WAVECAR
+ #../../run//1178/WAVECAR
+ #../../run//1179/WAVECAR
+ #../../run//1180/WAVECAR
+ #../../run//1181/WAVECAR
+ #../../run//1182/WAVECAR
+ #../../run//1183/WAVECAR
+ #../../run//1184/WAVECAR
+ #../../run//1185/WAVECAR
+ #../../run//1186/WAVECAR
+ #../../run//1187/WAVECAR
+ #../../run//1188/WAVECAR
+ #../../run//1189/WAVECAR
+ #../../run//1190/WAVECAR
+ #../../run//1191/WAVECAR
+ #../../run//1192/WAVECAR
+ #../../run//1193/WAVECAR
+ #../../run//1194/WAVECAR
+ #../../run//1195/WAVECAR
+ #../../run//1196/WAVECAR
+ #../../run//1197/WAVECAR
+ #../../run//1198/WAVECAR
+ #../../run//1199/WAVECAR
+ #../../run//1200/WAVECAR
+ #../../run//1201/WAVECAR
+ #../../run//1202/WAVECAR
+ #../../run//1203/WAVECAR
+ #../../run//1204/WAVECAR
+ #../../run//1205/WAVECAR
+ #../../run//1206/WAVECAR
+ #../../run//1207/WAVECAR
+ #../../run//1208/WAVECAR
+ #../../run//1209/WAVECAR
+ #../../run//1210/WAVECAR
+ #../../run//1211/WAVECAR
+ #../../run//1212/WAVECAR
+ #../../run//1213/WAVECAR
+ #../../run//1214/WAVECAR
+ #../../run//1215/WAVECAR
+ #../../run//1216/WAVECAR
+ #../../run//1217/WAVECAR
+ #../../run//1218/WAVECAR
+ #../../run//1219/WAVECAR
+ #../../run//1220/WAVECAR
+ #../../run//1221/WAVECAR
+ #../../run//1222/WAVECAR
+ #../../run//1223/WAVECAR
+ #../../run//1224/WAVECAR
+ #../../run//1225/WAVECAR
+ #../../run//1226/WAVECAR
+ #../../run//1227/WAVECAR
+ #../../run//1228/WAVECAR
+ #../../run//1229/WAVECAR
+ #../../run//1230/WAVECAR
+ #../../run//1231/WAVECAR
+ #../../run//1232/WAVECAR
+ #../../run//1233/WAVECAR
+ #../../run//1234/WAVECAR
+ #../../run//1235/WAVECAR
+ #../../run//1236/WAVECAR
+ #../../run//1237/WAVECAR
+ #../../run//1238/WAVECAR
+ #../../run//1239/WAVECAR
+ #../../run//1240/WAVECAR
+ #../../run//1241/WAVECAR
+ #../../run//1242/WAVECAR
+ #../../run//1243/WAVECAR
+ #../../run//1244/WAVECAR
+ #../../run//1245/WAVECAR
+ #../../run//1246/WAVECAR
+ #../../run//1247/WAVECAR
+ #../../run//1248/WAVECAR
+ #../../run//1249/WAVECAR
+ #../../run//1250/WAVECAR
+ #../../run//1251/WAVECAR
+ #../../run//1252/WAVECAR
+ #../../run//1253/WAVECAR
+ #../../run//1254/WAVECAR
+ #../../run//1255/WAVECAR
+ #../../run//1256/WAVECAR
+ #../../run//1257/WAVECAR
+ #../../run//1258/WAVECAR
+ #../../run//1259/WAVECAR
+ #../../run//1260/WAVECAR
+ #../../run//1261/WAVECAR
+ #../../run//1262/WAVECAR
+ #../../run//1263/WAVECAR
+ #../../run//1264/WAVECAR
+ #../../run//1265/WAVECAR
+ #../../run//1266/WAVECAR
+ #../../run//1267/WAVECAR
+ #../../run//1268/WAVECAR
+ #../../run//1269/WAVECAR
+ #../../run//1270/WAVECAR
+ #../../run//1271/WAVECAR
+ #../../run//1272/WAVECAR
+ #../../run//1273/WAVECAR
+ #../../run//1274/WAVECAR
+ #../../run//1275/WAVECAR
+ #../../run//1276/WAVECAR
+ #../../run//1277/WAVECAR
+ #../../run//1278/WAVECAR
+ #../../run//1279/WAVECAR
+ #../../run//1280/WAVECAR
+ #../../run//1281/WAVECAR
+ #../../run//1282/WAVECAR
+ #../../run//1283/WAVECAR
+ #../../run//1284/WAVECAR
+ #../../run//1285/WAVECAR
+ #../../run//1286/WAVECAR
+ #../../run//1287/WAVECAR
+ #../../run//1288/WAVECAR
+ #../../run//1289/WAVECAR
+ #../../run//1290/WAVECAR
+ #../../run//1291/WAVECAR
+ #../../run//1292/WAVECAR
+ #../../run//1293/WAVECAR
+ #../../run//1294/WAVECAR
+ #../../run//1295/WAVECAR
+ #../../run//1296/WAVECAR
+ #../../run//1297/WAVECAR
+ #../../run//1298/WAVECAR
+ #../../run//1299/WAVECAR
+ #../../run//1300/WAVECAR
+ #../../run//1301/WAVECAR
+ #../../run//1302/WAVECAR
+ #../../run//1303/WAVECAR
+ #../../run//1304/WAVECAR
+ #../../run//1305/WAVECAR
+ #../../run//1306/WAVECAR
+ #../../run//1307/WAVECAR
+ #../../run//1308/WAVECAR
+ #../../run//1309/WAVECAR
+ #../../run//1310/WAVECAR
+ #../../run//1311/WAVECAR
+ #../../run//1312/WAVECAR
+ #../../run//1313/WAVECAR
+ #../../run//1314/WAVECAR
+ #../../run//1315/WAVECAR
+ #../../run//1316/WAVECAR
+ #../../run//1317/WAVECAR
+ #../../run//1318/WAVECAR
+ #../../run//1319/WAVECAR
+ #../../run//1320/WAVECAR
+ #../../run//1321/WAVECAR
+ #../../run//1322/WAVECAR
+ #../../run//1323/WAVECAR
+ #../../run//1324/WAVECAR
+ #../../run//1325/WAVECAR
+ #../../run//1326/WAVECAR
+ #../../run//1327/WAVECAR
+ #../../run//1328/WAVECAR
+ #../../run//1329/WAVECAR
+ #../../run//1330/WAVECAR
+ #../../run//1331/WAVECAR
+ #../../run//1332/WAVECAR
+ #../../run//1333/WAVECAR
+ #../../run//1334/WAVECAR
+ #../../run//1335/WAVECAR
+ #../../run//1336/WAVECAR
+ #../../run//1337/WAVECAR
+ #../../run//1338/WAVECAR
+ #../../run//1339/WAVECAR
+ #../../run//1340/WAVECAR
+ #../../run//1341/WAVECAR
+ #../../run//1342/WAVECAR
+ #../../run//1343/WAVECAR
+ #../../run//1344/WAVECAR
+ #../../run//1345/WAVECAR
+ #../../run//1346/WAVECAR
+ #../../run//1347/WAVECAR
+ #../../run//1348/WAVECAR
+ #../../run//1349/WAVECAR
+ #../../run//1350/WAVECAR
+ #../../run//1351/WAVECAR
+ #../../run//1352/WAVECAR
+ #../../run//1353/WAVECAR
+ #../../run//1354/WAVECAR
+ #../../run//1355/WAVECAR
+ #../../run//1356/WAVECAR
+ #../../run//1357/WAVECAR
+ #../../run//1358/WAVECAR
+ #../../run//1359/WAVECAR
+ #../../run//1360/WAVECAR
+ #../../run//1361/WAVECAR
+ #../../run//1362/WAVECAR
+ #../../run//1363/WAVECAR
+ #../../run//1364/WAVECAR
+ #../../run//1365/WAVECAR
+ #../../run//1366/WAVECAR
+ #../../run//1367/WAVECAR
+ #../../run//1368/WAVECAR
+ #../../run//1369/WAVECAR
+ #../../run//1370/WAVECAR
+ #../../run//1371/WAVECAR
+ #../../run//1372/WAVECAR
+ #../../run//1373/WAVECAR
+ #../../run//1374/WAVECAR
+ #../../run//1375/WAVECAR
+ #../../run//1376/WAVECAR
+ #../../run//1377/WAVECAR
+ #../../run//1378/WAVECAR
+ #../../run//1379/WAVECAR
+ #../../run//1380/WAVECAR
+ #../../run//1381/WAVECAR
+ #../../run//1382/WAVECAR
+ #../../run//1383/WAVECAR
+ #../../run//1384/WAVECAR
+ #../../run//1385/WAVECAR
+ #../../run//1386/WAVECAR
+ #../../run//1387/WAVECAR
+ #../../run//1388/WAVECAR
+ #../../run//1389/WAVECAR
+ #../../run//1390/WAVECAR
+ #../../run//1391/WAVECAR
+ #../../run//1392/WAVECAR
+ #../../run//1393/WAVECAR
+ #../../run//1394/WAVECAR
+ #../../run//1395/WAVECAR
+ #../../run//1396/WAVECAR
+ #../../run//1397/WAVECAR
+ #../../run//1398/WAVECAR
+ #../../run//1399/WAVECAR
+ #../../run//1400/WAVECAR
+ #../../run//1401/WAVECAR
+ #../../run//1402/WAVECAR
+ #../../run//1403/WAVECAR
+ #../../run//1404/WAVECAR
+ #../../run//1405/WAVECAR
+ #../../run//1406/WAVECAR
+ #../../run//1407/WAVECAR
+ #../../run//1408/WAVECAR
+ #../../run//1409/WAVECAR
+ #../../run//1410/WAVECAR
+ #../../run//1411/WAVECAR
+ #../../run//1412/WAVECAR
+ #../../run//1413/WAVECAR
+ #../../run//1414/WAVECAR
+ #../../run//1415/WAVECAR
+ #../../run//1416/WAVECAR
+ #../../run//1417/WAVECAR
+ #../../run//1418/WAVECAR
+ #../../run//1419/WAVECAR
+ #../../run//1420/WAVECAR
+ #../../run//1421/WAVECAR
+ #../../run//1422/WAVECAR
+ #../../run//1423/WAVECAR
+ #../../run//1424/WAVECAR
+ #../../run//1425/WAVECAR
+ #../../run//1426/WAVECAR
+ #../../run//1427/WAVECAR
+ #../../run//1428/WAVECAR
+ #../../run//1429/WAVECAR
+ #../../run//1430/WAVECAR
+ #../../run//1431/WAVECAR
+ #../../run//1432/WAVECAR
+ #../../run//1433/WAVECAR
+ #../../run//1434/WAVECAR
+ #../../run//1435/WAVECAR
+ #../../run//1436/WAVECAR
+ #../../run//1437/WAVECAR
+ #../../run//1438/WAVECAR
+ #../../run//1439/WAVECAR
+ #../../run//1440/WAVECAR
+ #../../run//1441/WAVECAR
+ #../../run//1442/WAVECAR
+ #../../run//1443/WAVECAR
+ #../../run//1444/WAVECAR
+ #../../run//1445/WAVECAR
+ #../../run//1446/WAVECAR
+ #../../run//1447/WAVECAR
+ #../../run//1448/WAVECAR
+ #../../run//1449/WAVECAR
+ #../../run//1450/WAVECAR
+ #../../run//1451/WAVECAR
+ #../../run//1452/WAVECAR
+ #../../run//1453/WAVECAR
+ #../../run//1454/WAVECAR
+ #../../run//1455/WAVECAR
+ #../../run//1456/WAVECAR
+ #../../run//1457/WAVECAR
+ #../../run//1458/WAVECAR
+ #../../run//1459/WAVECAR
+ #../../run//1460/WAVECAR
+ #../../run//1461/WAVECAR
+ #../../run//1462/WAVECAR
+ #../../run//1463/WAVECAR
+ #../../run//1464/WAVECAR
+ #../../run//1465/WAVECAR
+ #../../run//1466/WAVECAR
+ #../../run//1467/WAVECAR
+ #../../run//1468/WAVECAR
+ #../../run//1469/WAVECAR
+ #../../run//1470/WAVECAR
+ #../../run//1471/WAVECAR
+ #../../run//1472/WAVECAR
+ #../../run//1473/WAVECAR
+ #../../run//1474/WAVECAR
+ #../../run//1475/WAVECAR
+ #../../run//1476/WAVECAR
+ #../../run//1477/WAVECAR
+ #../../run//1478/WAVECAR
+ #../../run//1479/WAVECAR
+ #../../run//1480/WAVECAR
+ #../../run//1481/WAVECAR
+ #../../run//1482/WAVECAR
+ #../../run//1483/WAVECAR
+ #../../run//1484/WAVECAR
+ #../../run//1485/WAVECAR
+ #../../run//1486/WAVECAR
+ #../../run//1487/WAVECAR
+ #../../run//1488/WAVECAR
+ #../../run//1489/WAVECAR
+ #../../run//1490/WAVECAR
+ #../../run//1491/WAVECAR
+ #../../run//1492/WAVECAR
+ #../../run//1493/WAVECAR
+ #../../run//1494/WAVECAR
+ #../../run//1495/WAVECAR
+ #../../run//1496/WAVECAR
+ #../../run//1497/WAVECAR
+ #../../run//1498/WAVECAR
+ #../../run//1499/WAVECAR
+ #../../run//1500/WAVECAR
+ #../../run//1501/WAVECAR
+ #../../run//1502/WAVECAR
+ #../../run//1503/WAVECAR
+ #../../run//1504/WAVECAR
+ #../../run//1505/WAVECAR
+ #../../run//1506/WAVECAR
+ #../../run//1507/WAVECAR
+ #../../run//1508/WAVECAR
+ #../../run//1509/WAVECAR
+ #../../run//1510/WAVECAR
+ #../../run//1511/WAVECAR
+ #../../run//1512/WAVECAR
+ #../../run//1513/WAVECAR
+ #../../run//1514/WAVECAR
+ #../../run//1515/WAVECAR
+ #../../run//1516/WAVECAR
+ #../../run//1517/WAVECAR
+ #../../run//1518/WAVECAR
+ #../../run//1519/WAVECAR
+ #../../run//1520/WAVECAR
+ #../../run//1521/WAVECAR
+ #../../run//1522/WAVECAR
+ #../../run//1523/WAVECAR
+ #../../run//1524/WAVECAR
+ #../../run//1525/WAVECAR
+ #../../run//1526/WAVECAR
+ #../../run//1527/WAVECAR
+ #../../run//1528/WAVECAR
+ #../../run//1529/WAVECAR
+ #../../run//1530/WAVECAR
+ #../../run//1531/WAVECAR
+ #../../run//1532/WAVECAR
+ #../../run//1533/WAVECAR
+ #../../run//1534/WAVECAR
+ #../../run//1535/WAVECAR
+ #../../run//1536/WAVECAR
+ #../../run//1537/WAVECAR
+ #../../run//1538/WAVECAR
+ #../../run//1539/WAVECAR
+ #../../run//1540/WAVECAR
+ #../../run//1541/WAVECAR
+ #../../run//1542/WAVECAR
+ #../../run//1543/WAVECAR
+ #../../run//1544/WAVECAR
+ #../../run//1545/WAVECAR
+ #../../run//1546/WAVECAR
+ #../../run//1547/WAVECAR
+ #../../run//1548/WAVECAR
+ #../../run//1549/WAVECAR
+ #../../run//1550/WAVECAR
+ #../../run//1551/WAVECAR
+ #../../run//1552/WAVECAR
+ #../../run//1553/WAVECAR
+ #../../run//1554/WAVECAR
+ #../../run//1555/WAVECAR
+ #../../run//1556/WAVECAR
+ #../../run//1557/WAVECAR
+ #../../run//1558/WAVECAR
+ #../../run//1559/WAVECAR
+ #../../run//1560/WAVECAR
+ #../../run//1561/WAVECAR
+ #../../run//1562/WAVECAR
+ #../../run//1563/WAVECAR
+ #../../run//1564/WAVECAR
+ #../../run//1565/WAVECAR
+ #../../run//1566/WAVECAR
+ #../../run//1567/WAVECAR
+ #../../run//1568/WAVECAR
+ #../../run//1569/WAVECAR
+ #../../run//1570/WAVECAR
+ #../../run//1571/WAVECAR
+ #../../run//1572/WAVECAR
+ #../../run//1573/WAVECAR
+ #../../run//1574/WAVECAR
+ #../../run//1575/WAVECAR
+ #../../run//1576/WAVECAR
+ #../../run//1577/WAVECAR
+ #../../run//1578/WAVECAR
+ #../../run//1579/WAVECAR
+ #../../run//1580/WAVECAR
+ #../../run//1581/WAVECAR
+ #../../run//1582/WAVECAR
+ #../../run//1583/WAVECAR
+ #../../run//1584/WAVECAR
+ #../../run//1585/WAVECAR
+ #../../run//1586/WAVECAR
+ #../../run//1587/WAVECAR
+ #../../run//1588/WAVECAR
+ #../../run//1589/WAVECAR
+ #../../run//1590/WAVECAR
+ #../../run//1591/WAVECAR
+ #../../run//1592/WAVECAR
+ #../../run//1593/WAVECAR
+ #../../run//1594/WAVECAR
+ #../../run//1595/WAVECAR
+ #../../run//1596/WAVECAR
+ #../../run//1597/WAVECAR
+ #../../run//1598/WAVECAR
+ #../../run//1599/WAVECAR
+ #../../run//1600/WAVECAR
+ #../../run//1601/WAVECAR
+ #../../run//1602/WAVECAR
+ #../../run//1603/WAVECAR
+ #../../run//1604/WAVECAR
+ #../../run//1605/WAVECAR
+ #../../run//1606/WAVECAR
+ #../../run//1607/WAVECAR
+ #../../run//1608/WAVECAR
+ #../../run//1609/WAVECAR
+ #../../run//1610/WAVECAR
+ #../../run//1611/WAVECAR
+ #../../run//1612/WAVECAR
+ #../../run//1613/WAVECAR
+ #../../run//1614/WAVECAR
+ #../../run//1615/WAVECAR
+ #../../run//1616/WAVECAR
+ #../../run//1617/WAVECAR
+ #../../run//1618/WAVECAR
+ #../../run//1619/WAVECAR
+ #../../run//1620/WAVECAR
+ #../../run//1621/WAVECAR
+ #../../run//1622/WAVECAR
+ #../../run//1623/WAVECAR
+ #../../run//1624/WAVECAR
+ #../../run//1625/WAVECAR
+ #../../run//1626/WAVECAR
+ #../../run//1627/WAVECAR
+ #../../run//1628/WAVECAR
+ #../../run//1629/WAVECAR
+ #../../run//1630/WAVECAR
+ #../../run//1631/WAVECAR
+ #../../run//1632/WAVECAR
+ #../../run//1633/WAVECAR
+ #../../run//1634/WAVECAR
+ #../../run//1635/WAVECAR
+ #../../run//1636/WAVECAR
+ #../../run//1637/WAVECAR
+ #../../run//1638/WAVECAR
+ #../../run//1639/WAVECAR
+ #../../run//1640/WAVECAR
+ #../../run//1641/WAVECAR
+ #../../run//1642/WAVECAR
+ #../../run//1643/WAVECAR
+ #../../run//1644/WAVECAR
+ #../../run//1645/WAVECAR
+ #../../run//1646/WAVECAR
+ #../../run//1647/WAVECAR
+ #../../run//1648/WAVECAR
+ #../../run//1649/WAVECAR
+ #../../run//1650/WAVECAR
+ #../../run//1651/WAVECAR
+ #../../run//1652/WAVECAR
+ #../../run//1653/WAVECAR
+ #../../run//1654/WAVECAR
+ #../../run//1655/WAVECAR
+ #../../run//1656/WAVECAR
+ #../../run//1657/WAVECAR
+ #../../run//1658/WAVECAR
+ #../../run//1659/WAVECAR
+ #../../run//1660/WAVECAR
+ #../../run//1661/WAVECAR
+ #../../run//1662/WAVECAR
+ #../../run//1663/WAVECAR
+ #../../run//1664/WAVECAR
+ #../../run//1665/WAVECAR
+ #../../run//1666/WAVECAR
+ #../../run//1667/WAVECAR
+ #../../run//1668/WAVECAR
+ #../../run//1669/WAVECAR
+ #../../run//1670/WAVECAR
+ #../../run//1671/WAVECAR
+ #../../run//1672/WAVECAR
+ #../../run//1673/WAVECAR
+ #../../run//1674/WAVECAR
+ #../../run//1675/WAVECAR
+ #../../run//1676/WAVECAR
+ #../../run//1677/WAVECAR
+ #../../run//1678/WAVECAR
+ #../../run//1679/WAVECAR
+ #../../run//1680/WAVECAR
+ #../../run//1681/WAVECAR
+ #../../run//1682/WAVECAR
+ #../../run//1683/WAVECAR
+ #../../run//1684/WAVECAR
+ #../../run//1685/WAVECAR
+ #../../run//1686/WAVECAR
+ #../../run//1687/WAVECAR
+ #../../run//1688/WAVECAR
+ #../../run//1689/WAVECAR
+ #../../run//1690/WAVECAR
+ #../../run//1691/WAVECAR
+ #../../run//1692/WAVECAR
+ #../../run//1693/WAVECAR
+ #../../run//1694/WAVECAR
+ #../../run//1695/WAVECAR
+ #../../run//1696/WAVECAR
+ #../../run//1697/WAVECAR
+ #../../run//1698/WAVECAR
+ #../../run//1699/WAVECAR
+ #../../run//1700/WAVECAR
+ #../../run//1701/WAVECAR
+ #../../run//1702/WAVECAR
+ #../../run//1703/WAVECAR
+ #../../run//1704/WAVECAR
+ #../../run//1705/WAVECAR
+ #../../run//1706/WAVECAR
+ #../../run//1707/WAVECAR
+ #../../run//1708/WAVECAR
+ #../../run//1709/WAVECAR
+ #../../run//1710/WAVECAR
+ #../../run//1711/WAVECAR
+ #../../run//1712/WAVECAR
+ #../../run//1713/WAVECAR
+ #../../run//1714/WAVECAR
+ #../../run//1715/WAVECAR
+ #../../run//1716/WAVECAR
+ #../../run//1717/WAVECAR
+ #../../run//1718/WAVECAR
+ #../../run//1719/WAVECAR
+ #../../run//1720/WAVECAR
+ #../../run//1721/WAVECAR
+ #../../run//1722/WAVECAR
+ #../../run//1723/WAVECAR
+ #../../run//1724/WAVECAR
+ #../../run//1725/WAVECAR
+ #../../run//1726/WAVECAR
+ #../../run//1727/WAVECAR
+ #../../run//1728/WAVECAR
+ #../../run//1729/WAVECAR
+ #../../run//1730/WAVECAR
+ #../../run//1731/WAVECAR
+ #../../run//1732/WAVECAR
+ #../../run//1733/WAVECAR
+ #../../run//1734/WAVECAR
+ #../../run//1735/WAVECAR
+ #../../run//1736/WAVECAR
+ #../../run//1737/WAVECAR
+ #../../run//1738/WAVECAR
+ #../../run//1739/WAVECAR
+ #../../run//1740/WAVECAR
+ #../../run//1741/WAVECAR
+ #../../run//1742/WAVECAR
+ #../../run//1743/WAVECAR
+ #../../run//1744/WAVECAR
+ #../../run//1745/WAVECAR
+ #../../run//1746/WAVECAR
+ #../../run//1747/WAVECAR
+ #../../run//1748/WAVECAR
+ #../../run//1749/WAVECAR
+ #../../run//1750/WAVECAR
+ #../../run//1751/WAVECAR
+ #../../run//1752/WAVECAR
+ #../../run//1753/WAVECAR
+ #../../run//1754/WAVECAR
+ #../../run//1755/WAVECAR
+ #../../run//1756/WAVECAR
+ #../../run//1757/WAVECAR
+ #../../run//1758/WAVECAR
+ #../../run//1759/WAVECAR
+ #../../run//1760/WAVECAR
+ #../../run//1761/WAVECAR
+ #../../run//1762/WAVECAR
+ #../../run//1763/WAVECAR
+ #../../run//1764/WAVECAR
+ #../../run//1765/WAVECAR
+ #../../run//1766/WAVECAR
+ #../../run//1767/WAVECAR
+ #../../run//1768/WAVECAR
+ #../../run//1769/WAVECAR
+ #../../run//1770/WAVECAR
+ #../../run//1771/WAVECAR
+ #../../run//1772/WAVECAR
+ #../../run//1773/WAVECAR
+ #../../run//1774/WAVECAR
+ #../../run//1775/WAVECAR
+ #../../run//1776/WAVECAR
+ #../../run//1777/WAVECAR
+ #../../run//1778/WAVECAR
+ #../../run//1779/WAVECAR
+ #../../run//1780/WAVECAR
+ #../../run//1781/WAVECAR
+ #../../run//1782/WAVECAR
+ #../../run//1783/WAVECAR
+ #../../run//1784/WAVECAR
+ #../../run//1785/WAVECAR
+ #../../run//1786/WAVECAR
+ #../../run//1787/WAVECAR
+ #../../run//1788/WAVECAR
+ #../../run//1789/WAVECAR
+ #../../run//1790/WAVECAR
+ #../../run//1791/WAVECAR
+ #../../run//1792/WAVECAR
+ #../../run//1793/WAVECAR
+ #../../run//1794/WAVECAR
+ #../../run//1795/WAVECAR
+ #../../run//1796/WAVECAR
+ #../../run//1797/WAVECAR
+ #../../run//1798/WAVECAR
+ #../../run//1799/WAVECAR
+ #../../run//1800/WAVECAR
+ #../../run//1801/WAVECAR
+ #../../run//1802/WAVECAR
+ #../../run//1803/WAVECAR
+ #../../run//1804/WAVECAR
+ #../../run//1805/WAVECAR
+ #../../run//1806/WAVECAR
+ #../../run//1807/WAVECAR
+ #../../run//1808/WAVECAR
+ #../../run//1809/WAVECAR
+ #../../run//1810/WAVECAR
+ #../../run//1811/WAVECAR
+ #../../run//1812/WAVECAR
+ #../../run//1813/WAVECAR
+ #../../run//1814/WAVECAR
+ #../../run//1815/WAVECAR
+ #../../run//1816/WAVECAR
+ #../../run//1817/WAVECAR
+ #../../run//1818/WAVECAR
+ #../../run//1819/WAVECAR
+ #../../run//1820/WAVECAR
+ #../../run//1821/WAVECAR
+ #../../run//1822/WAVECAR
+ #../../run//1823/WAVECAR
+ #../../run//1824/WAVECAR
+ #../../run//1825/WAVECAR
+ #../../run//1826/WAVECAR
+ #../../run//1827/WAVECAR
+ #../../run//1828/WAVECAR
+ #../../run//1829/WAVECAR
+ #../../run//1830/WAVECAR
+ #../../run//1831/WAVECAR
+ #../../run//1832/WAVECAR
+ #../../run//1833/WAVECAR
+ #../../run//1834/WAVECAR
+ #../../run//1835/WAVECAR
+ #../../run//1836/WAVECAR
+ #../../run//1837/WAVECAR
+ #../../run//1838/WAVECAR
+ #../../run//1839/WAVECAR
+ #../../run//1840/WAVECAR
+ #../../run//1841/WAVECAR
+ #../../run//1842/WAVECAR
+ #../../run//1843/WAVECAR
+ #../../run//1844/WAVECAR
+ #../../run//1845/WAVECAR
+ #../../run//1846/WAVECAR
+ #../../run//1847/WAVECAR
+ #../../run//1848/WAVECAR
+ #../../run//1849/WAVECAR
+ #../../run//1850/WAVECAR
+ #../../run//1851/WAVECAR
+ #../../run//1852/WAVECAR
+ #../../run//1853/WAVECAR
+ #../../run//1854/WAVECAR
+ #../../run//1855/WAVECAR
+ #../../run//1856/WAVECAR
+ #../../run//1857/WAVECAR
+ #../../run//1858/WAVECAR
+ #../../run//1859/WAVECAR
+ #../../run//1860/WAVECAR
+ #../../run//1861/WAVECAR
+ #../../run//1862/WAVECAR
+ #../../run//1863/WAVECAR
+ #../../run//1864/WAVECAR
+ #../../run//1865/WAVECAR
+ #../../run//1866/WAVECAR
+ #../../run//1867/WAVECAR
+ #../../run//1868/WAVECAR
+ #../../run//1869/WAVECAR
+ #../../run//1870/WAVECAR
+ #../../run//1871/WAVECAR
+ #../../run//1872/WAVECAR
+ #../../run//1873/WAVECAR
+ #../../run//1874/WAVECAR
+ #../../run//1875/WAVECAR
+ #../../run//1876/WAVECAR
+ #../../run//1877/WAVECAR
+ #../../run//1878/WAVECAR
+ #../../run//1879/WAVECAR
+ #../../run//1880/WAVECAR
+ #../../run//1881/WAVECAR
+ #../../run//1882/WAVECAR
+ #../../run//1883/WAVECAR
+ #../../run//1884/WAVECAR
+ #../../run//1885/WAVECAR
+ #../../run//1886/WAVECAR
+ #../../run//1887/WAVECAR
+ #../../run//1888/WAVECAR
+ #../../run//1889/WAVECAR
+ #../../run//1890/WAVECAR
+ #../../run//1891/WAVECAR
+ #../../run//1892/WAVECAR
+ #../../run//1893/WAVECAR
+ #../../run//1894/WAVECAR
+ #../../run//1895/WAVECAR
+ #../../run//1896/WAVECAR
+ #../../run//1897/WAVECAR
+ #../../run//1898/WAVECAR
+ #../../run//1899/WAVECAR
+ #../../run//1900/WAVECAR
+ #../../run//1901/WAVECAR
+ #../../run//1902/WAVECAR
+ #../../run//1903/WAVECAR
+ #../../run//1904/WAVECAR
+ #../../run//1905/WAVECAR
+ #../../run//1906/WAVECAR
+ #../../run//1907/WAVECAR
+ #../../run//1908/WAVECAR
+ #../../run//1909/WAVECAR
+ #../../run//1910/WAVECAR
+ #../../run//1911/WAVECAR
+ #../../run//1912/WAVECAR
+ #../../run//1913/WAVECAR
+ #../../run//1914/WAVECAR
+ #../../run//1915/WAVECAR
+ #../../run//1916/WAVECAR
+ #../../run//1917/WAVECAR
+ #../../run//1918/WAVECAR
+ #../../run//1919/WAVECAR
+ #../../run//1920/WAVECAR
+ #../../run//1921/WAVECAR
+ #../../run//1922/WAVECAR
+ #../../run//1923/WAVECAR
+ #../../run//1924/WAVECAR
+ #../../run//1925/WAVECAR
+ #../../run//1926/WAVECAR
+ #../../run//1927/WAVECAR
+ #../../run//1928/WAVECAR
+ #../../run//1929/WAVECAR
+ #../../run//1930/WAVECAR
+ #../../run//1931/WAVECAR
+ #../../run//1932/WAVECAR
+ #../../run//1933/WAVECAR
+ #../../run//1934/WAVECAR
+ #../../run//1935/WAVECAR
+ #../../run//1936/WAVECAR
+ #../../run//1937/WAVECAR
+ #../../run//1938/WAVECAR
+ #../../run//1939/WAVECAR
+ #../../run//1940/WAVECAR
+ #../../run//1941/WAVECAR
+ #../../run//1942/WAVECAR
+ #../../run//1943/WAVECAR
+ #../../run//1944/WAVECAR
+ #../../run//1945/WAVECAR
+ #../../run//1946/WAVECAR
+ #../../run//1947/WAVECAR
+ #../../run//1948/WAVECAR
+ #../../run//1949/WAVECAR
+ #../../run//1950/WAVECAR
+ #../../run//1951/WAVECAR
+ #../../run//1952/WAVECAR
+ #../../run//1953/WAVECAR
+ #../../run//1954/WAVECAR
+ #../../run//1955/WAVECAR
+ #../../run//1956/WAVECAR
+ #../../run//1957/WAVECAR
+ #../../run//1958/WAVECAR
+ #../../run//1959/WAVECAR
+ #../../run//1960/WAVECAR
+ #../../run//1961/WAVECAR
+ #../../run//1962/WAVECAR
+ #../../run//1963/WAVECAR
+ #../../run//1964/WAVECAR
+ #../../run//1965/WAVECAR
+ #../../run//1966/WAVECAR
+ #../../run//1967/WAVECAR
+ #../../run//1968/WAVECAR
+ #../../run//1969/WAVECAR
+ #../../run//1970/WAVECAR
+ #../../run//1971/WAVECAR
+ #../../run//1972/WAVECAR
+ #../../run//1973/WAVECAR
+ #../../run//1974/WAVECAR
+ #../../run//1975/WAVECAR
+ #../../run//1976/WAVECAR
+ #../../run//1977/WAVECAR
+ #../../run//1978/WAVECAR
+ #../../run//1979/WAVECAR
+ #../../run//1980/WAVECAR
+ #../../run//1981/WAVECAR
+ #../../run//1982/WAVECAR
+ #../../run//1983/WAVECAR
+ #../../run//1984/WAVECAR
+ #../../run//1985/WAVECAR
+ #../../run//1986/WAVECAR
+ #../../run//1987/WAVECAR
+ #../../run//1988/WAVECAR
+ #../../run//1989/WAVECAR
+ #../../run//1990/WAVECAR
+ #../../run//1991/WAVECAR
+ #../../run//1992/WAVECAR
+ #../../run//1993/WAVECAR
+ #../../run//1994/WAVECAR
+ #../../run//1995/WAVECAR
+ #../../run//1996/WAVECAR
+ #../../run//1997/WAVECAR
+ #../../run//1998/WAVECAR
+ #../../run//1999/WAVECAR
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   545
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.03
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   486
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   170
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.95
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   618
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.04
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   862
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.95
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   595
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.02
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   657
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   466
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.95
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    75
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   249
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   847
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.02
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   636
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.00
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   742
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.09
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   570
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   564
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   144
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   403
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   491
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.01
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   686
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.99
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   942
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.93
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    67
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   985
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   162
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   215
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   234
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   986
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   969
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.93
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   626
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   482
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.01
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   631
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   987
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    23
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   546
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.02
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   223
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   141
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   155
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.95
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   715
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.09
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   557
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.03
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   990
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.96
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   667
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   179
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   867
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   398
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   553
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.08
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   228
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   416
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   808
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.02
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   149
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   456
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.03
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   959
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.95
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   776
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.02
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   383
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.96
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   960
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.08
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   845
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.09
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   243
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   822
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   391
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.01
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   517
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.04
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   359
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.95
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    16
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.94
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   480
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.01
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   940
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.98
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   139
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.99
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   475
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.01
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   444
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.01
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   337
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.95
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   465
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   900
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   996
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    80
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    73
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   755
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   983
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.96
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   252
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.97
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   841
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.89
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   791
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   973
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   419
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   875
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.09
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   594
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =     3
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.96
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   792
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   621
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   158
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   963
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.94
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   133
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.97
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   856
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   329
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   765
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   206
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    34
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   476
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   971
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   878
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   411
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   441
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.07
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   409
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =    81
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.05
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   407
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   197
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.96
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   406
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   528
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    0.97
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   408
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   478
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.03
+------------------------------------------------------------
+                          BMIN =   406
+                          BMAX =   411
+                       INIBAND =   410
+                        NBANDS =   540
+                           NSW =  2000
+                         POTIM =   1.0
+                          TEMP = 300.0
+                      NAMDTINI =   687
+                      NAMDTIME =  1000
+                         NTRAJ =  5000
+                          NELM =  1000
+                         LHOLE =     T
+                          LSHP =     T
+                        LCPTXT =     T
+                        RUNDIR = ../../run/
+------------------------------------------------------------
+CPU Time [s]:    1.06
