@@ -30,7 +30,6 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 - Work function
 - Charge density difference (CDD)
 - Bader charge analysis
-Since HSE06 and HSE06+U are computationally intensive functionals for this complex spin-polarized magnetic system, GGA+U was adopted for most calculations.
 
 ---
 
@@ -67,6 +66,7 @@ Since HSE06 and HSE06+U are computationally intensive functionals for this compl
 ## Notes
 - All ground-state calculations were performed using VASP and analyzed using vaspkit and python-based post-processing scripts.
 - GGA+U functional with vdW correction (D3) was adopted for all calculations (ground-state properties, excited-state dynamics and vibrational analysis)
+- Since HSE06 and HSE06+U are computationally intensive functionals for this magnetic system, GGA+U was adopted for spin-polarized calculations here.
 - Excited-state NAMD simulations were performed using the Hefei-NAMD package on 2x2x1 supercells with 2000 SCF steps.
 
 ---
