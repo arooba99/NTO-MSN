@@ -54,7 +54,7 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 ---
 
 ### 5. `Gibbs_HER/`
-- Input and output files for selected adsorption sites in pristine and vacancy-defective systems for Gibbs free energy calculations for HER
+- Input and output files for selected adsorption sites in pristine and vacancy-defective systems for Gibbs free energy calculations for HER.
 
 ---
 
@@ -64,9 +64,9 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 ---
 
 ## Notes
-- All ground-state calculations were performed using VASP and analyzed using vaspkit and python-based post-processing scripts.
-- GGA+U functional with vdW correction (D3) was adopted for all calculations (ground-state properties, excited-state dynamics and vibrational analysis)
-- Since HSE06 and HSE06+U are computationally intensive functionals for this magnetic system, GGA+U was adopted for spin-polarized calculations here.
-- Excited-state NAMD simulations were performed using the Hefei-NAMD package on 2x2x1 supercells with 2000 SCF steps.
+- All ground-state calculations were performed using VASP and analyzed with vaspkit and Python-based post-processing scripts.  
+- The GGA+U functional with van der Waals correction (D3) and spin polarization (ISPIN=2) was employed for all calculations, including ground-state properties, excited-state carrier dynamics, and catalytic properties.  
+- Due to the computational cost of HSE06 and HSE06+U for this magnetic system, GGA+U was used for most calculations. Results from HSE06 and HSE06+U are provided for accurate estimation and comparison of electronic properties and solar-to-hydrogen (STH) efficiency.  
+- Excited-state nonadiabatic molecular dynamics (NAMD) simulations were performed using the Hefei-NAMD code on 2×2×1 supercells with 2000 SCF steps.
 
 ---
