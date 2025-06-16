@@ -1,0 +1,61 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'generated with latticeMatcher         '
+_cell_length_a                         5.057051
+_cell_length_b                         5.056758
+_cell_length_c                         35.000000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      120.001923
+_cell_volume                           775.103564
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Mo1        1.0     0.333253     0.000012     0.610174    Uiso  ? Mo
+   Mo2        1.0     0.666751     0.666752     0.610174    Uiso  ? Mo
+   Mo3        1.0     0.999988     0.333243     0.610174    Uiso  ? Mo
+   N1         1.0     0.334077     0.334146     0.574215    Uiso  ? N
+   N2         1.0     0.333415     0.333432     0.646145    Uiso  ? N
+   N3         1.0     0.333196     0.999914     0.710957    Uiso  ? N
+   N4         1.0     0.331678     0.000204     0.509628    Uiso  ? N
+   N5         1.0     0.665870     0.999933     0.574213    Uiso  ? N
+   N6         1.0     0.666545     0.999983     0.646144    Uiso  ? N
+   N7         1.0     0.666574     0.666605     0.710957    Uiso  ? N
+   N8         1.0     0.668543     0.668354     0.509629    Uiso  ? N
+   N9         1.0     0.000087     0.665955     0.574214    Uiso  ? N
+   N10        1.0     0.999991     0.666560     0.646142    Uiso  ? N
+   N11        1.0     0.999883     0.333227     0.710957    Uiso  ? N
+   N12        1.0     0.999848     0.331507     0.509631    Uiso  ? N
+   Si1        1.0     0.333236     0.333270     0.696317    Uiso  ? Si
+   Si2        1.0     0.334661     0.334669     0.524056    Uiso  ? Si
+   Si3        1.0     0.666526     0.999912     0.696316    Uiso  ? Si
+   Si4        1.0     0.665389     0.000005     0.524054    Uiso  ? Si
+   Si5        1.0     0.999882     0.666559     0.696315    Uiso  ? Si
+   Si6        1.0     0.000074     0.665392     0.524057    Uiso  ? Si
+   Ni1        1.0     0.000015     0.999988     0.348649    Uiso  ? Ni
+   Ni2        1.0     0.000050     0.000021     0.440534    Uiso  ? Ni
+   Ni3        1.0     0.666715     0.333356     0.394360    Uiso  ? Ni
+   O1         1.0     0.636873     0.648615     0.361622    Uiso  ? O
+   O2         1.0     0.351454     0.988314     0.361624    Uiso  ? O
+   O3         1.0     0.011771     0.363150     0.361625    Uiso  ? O
+   O4         1.0     0.012071     0.648737     0.426706    Uiso  ? O
+   O5         1.0     0.351344     0.363316     0.426710    Uiso  ? O
+   O6         1.0     0.636799     0.988077     0.426703    Uiso  ? O
+   Te1        1.0     0.333444     0.666790     0.394141    Uiso  ? Te
