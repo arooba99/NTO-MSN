@@ -1,0 +1,11 @@
+Bader Charge Analysis
+LAECHG     = .TRUE.    (Write core charge into CHGCAR file)
+LCHARG     = .TRUE.    (Write CHGCAR file)
+
+DFT+U Calculation
+LDAU   = .TRUE.        (Activate DFT+U)
+LDATYPE=  2            (Dudarev; only U-J matters)
+LDAUL  =  2 -1 -1 2 -1 -1        (Orbitals for each species)
+LDAUU  =  3.5 0.0 0.0 4.6 0.0 0.0         (U for each species)
+LDAUJ  =  0.0 0.0 0.0 0.0 0.0 0.0         (J for each species)
+LMAXMIX=  4            (Mixing cut-off; 4-d, 6-f) 
