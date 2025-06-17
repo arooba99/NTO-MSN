@@ -1,0 +1,18 @@
+&NAMDPARA
+  BMIN     = 409     ! bottom band index, starting from 1
+  BMAX     = 413     ! top band index
+  NBANDS   = 540     ! number of bands
+
+  NSW      = 2000    ! number of ionic steps
+  POTIM    = 1       ! MD time step
+  TEMP     = 300     ! temperature in Kelvin
+
+  NSAMPLE  = 100     ! number of samples
+  NAMDTIME = 1000    ! time for NAMD run
+  NELM     = 1000    ! electron time step
+  NTRAJ    = 5000    ! SH trajectories
+  LHOLE    = .FALSE. ! hole/electron SH
+
+  RUNDIR   = "../../run/"
+  LCPEXT   = .TRUE.
+/                    ! **DO NOT FORGET THE SLASH HERE!**
