@@ -19,7 +19,7 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 - **Thermodynamic Stability (AIMD)**
   - AIMD input/output files and representative trajectory
 - **AIMD_M3GNet**
-  - Stability test using M3GNet pretrained model
+  - Non-magnetic Stability test using M3GNet pretrained model
 
 ---
 
