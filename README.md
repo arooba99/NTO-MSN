@@ -70,3 +70,9 @@ Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study".
 - Excited-state nonadiabatic molecular dynamics (NAMD) simulations were performed using the Hefei-NAMD code on 2×2×1 supercells with 2000 SCF steps.
 
 ---
+
+## Citation
+Title: Ultrafast Charge Transfer and Delayed Recombination in type-II Ni₃TeO₆/MoSi₂N₄ Heterostructure: A Time-Domain Ab Initio Study
+Authors: Arooba Kanwal, Yixue Duan, Zhen Dong, Zirui Jiang, Hao Fan, Abdul Jalil, Syed Raza Ali Raza, Mahalingam Ravi Varma
+Journal: ACS Applied Energy Materials
+DOI: [(https://doi.org/10.1021/acsaem.5c01469)](https://doi.org/10.1021/acsaem.5c01469)
